@@ -9,7 +9,7 @@ _NOTE: This syllabus is work in progress and subject to change!_
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
-**Time:** TBA | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
+**Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
 **Office Hours:** Day and Time TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
@@ -30,11 +30,12 @@ If no appointments are available, please send your instructor an email with thre
 ## Description
 This is a hands-on introduction to programming the computer for creative applications. This course will introduce and explore fundamental coding concepts, such as logic sequencing, data structures, data flow, and event-drive interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all. [TBD - Independent studies are available for students who already have experience with programming in JavaScript and p5.js.]()
 
-## Objectives
-By the end of this course, we will be able to:
-* Understand the fundemental coding concepts, including variables, conditionals, iteration, functions, array, and objects;
-* Practically engage these concepts in creative work;
-* Develop a working knowledge of JavaScript and the p5.js programming framework. 
+## Learning Goals
+To help us development an appreciation of computational thinking and the possibiities for its creative applications, here are our learning goals:
+* Develop a working knowledge of JavaScript and the p5.js programming framework; 
+* Understand fundamental coding concepts, such as variables, conditionals, iteration, functions, array, and objects;
+* Practically engage these concepts in our creative work;
+
 
 ## Community Guidelines
 Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](URL_TBA), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the Creative Coding Summer 2021 classes.
