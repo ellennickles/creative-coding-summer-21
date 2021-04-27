@@ -25,7 +25,7 @@ If no appointments are available, please send your instructor an email with thre
 
 **Course Discord Channel:** #creative-coding
 
-## [Schedule](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/schedule.md)
+## [Schedule & Resources](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/schedule.md)
 The schedule is an overview of how we will be spending class time over the next 5 weeks. The specifics of what we cover will be determined week to week by your instructor. The material you are responsible for will be detailed on the Homework Pages (see links above) for each section.
 
 ## Description
