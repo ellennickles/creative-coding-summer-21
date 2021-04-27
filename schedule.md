@@ -1,5 +1,7 @@
 # Schedule
 
+# General Resources
+
 ## Week 0: Introduction & Drawing
 
 ## Week 1: TBA
