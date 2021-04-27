@@ -4,7 +4,7 @@ NYU IMA Low Res, Summer 2021
 _NOTE: Syllabus and Schedule are a work in progress and subject to change!_
 
 ## Course Sections
-**Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
+**Time:** TBA | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
