@@ -31,10 +31,10 @@ If no appointments are available, please send your instructor an email with thre
 This is a hands-on introduction to programming the computer for creative applications. This course will introduce and explore fundamental coding concepts, such as logic sequencing, data structures, data flow, and event-drive interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all. [TBD - Independent studies are available for students who already have experience with programming in JavaScript and p5.js.]()
 
 ## Learning Goals
-To help us development an appreciation of computational thinking and the possibiities for its creative applications, here are our learning goals:
-* Develop a working knowledge of JavaScript and the p5.js programming framework; 
+To help us develop an appreciation of computational thinking and the possibiities for its creative applications, here are our learning goals:
 * Understand fundamental coding concepts, such as variables, conditionals, iteration, functions, array, and objects;
-* Practically engage these concepts in our creative work;
+* Develop a working knowledge of JavaScript and the p5.js programming framework; 
+* Practically engage our working knowledge and coding concepts in our creative work;
 
 
 ## Community Guidelines
