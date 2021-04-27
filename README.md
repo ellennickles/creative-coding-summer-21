@@ -12,7 +12,7 @@ _NOTE: Syllabus and Schedule are a work in progress and subject to change!_
 **Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
-**Office Hours:** Day and Time TBA [Sign up here - Link TBA](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
+**Office Hours:** Day and Time TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
 
 If no appointments are available, please send your instructor an email with three good times for you, and we will send you a calendar invite and Zoom link.
 
