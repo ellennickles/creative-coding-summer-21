@@ -4,12 +4,12 @@ NYU IMA Low Res, Summer 2021
 _NOTE: Syllabus and Schedule are a work in progress and subject to change!_
 
 ## Course Sections
-**Time:** TBA | [Homework Page](URL_TBA)  
+**Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
-**Time:** TBA | [Homework Page](URL_TBA)  
+**Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
 **Office Hours:** Day and Time TBA [Sign up here - Link TBA](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
@@ -25,7 +25,7 @@ If no appointments are available, please send your instructor an email with thre
 
 **Course Discord Channel:** #creative-coding
 
-## [Schedule](URL_TBA)
+## [Schedule](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/schedule.md)
 The schedule is an overview of how we will be spending class time over the next 5 weeks. The specifics of what we cover will be determined week to week by your instructor. The material you are responsible for will be detailed on the Homework Pages (see links above) for each section.
 
 ## Description
