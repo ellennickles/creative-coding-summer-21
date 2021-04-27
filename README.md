@@ -1,7 +1,7 @@
 # Creative Coding
 NYU IMA Low Res, Summer 2021
 
-_NOTE: Syllabus and Schedule are a work in progress and subject to change!_
+_NOTE: This syllabus is work in progress and subject to change!_
 
 ## Course Sections
 **Time:** TBA | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
