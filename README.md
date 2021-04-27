@@ -41,7 +41,7 @@ To help us develop an appreciation of computational thinking and the possibiitie
 Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](URL_TBA), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the Creative Coding Summer 2021 classes.
 
 ## Format
-The class meetings for the NYU IMA Low Res Summer Session II will be held over teleconference, at the scheduled class times. 
+The class meetings for the NYU IMA Low Res Summer Session II will be held over teleconference, on Zoom, at the scheduled class times. 
 
 This class will be “flipped”, meaning that you will have to watch the watch and read tutorials before class and do hands-on work in class. You will have assignments to do before both classes.
 
