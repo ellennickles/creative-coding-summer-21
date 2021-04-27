@@ -9,7 +9,7 @@ _NOTE: This syllabus is work in progress and subject to change!_
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
-**Time:** TBA | [Homework Page](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
+**Time:** TBA | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
 **Office Hours:** Day and Time TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
