@@ -1,6 +1,6 @@
 # Schedule
 
-# General Resources
+## General Resources
 
 ## Week 0: Introduction & Drawing
 
