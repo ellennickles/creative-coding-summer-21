@@ -5,7 +5,7 @@
 * Animating your drawing in p5.
 * What are variables and why should we use them?
 
-### Class 01
+### // Class 01
 [Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
 
 #### In class:
@@ -18,7 +18,7 @@
 #### Homework:
 TBD
 
-### Class 02
+### // Class 02
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
 
 #### In class:
