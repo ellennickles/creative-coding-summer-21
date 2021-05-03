@@ -1,11 +1,31 @@
 # Carrie's Section / Schedule & Homework
 
-## Week 01
+## Week 01: Introduction and Animation
+* What is creative coding and what can I do with it?
+* Animating your drawing in p5.
+* What are variables and why should we use them?
 
-## Week 02
+### Class 01
+[Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
 
-## Week 03
+#### In class:
+* Welcome and self introductions
+* Overview of the class
+* What is creative coding?
+* Review p5 basics and drawing 2D shapes
+* Summary & homework assignment
 
-## Week 04
+#### Homework:
+TBD
 
-## Week 05
+### Class 02
+
+## Week 02: Interaction and Repetition
+
+## Week 03: Organization
+
+## Week 04: More Repetition
+
+## Week 05: Media, and Final Project
+* Using media—image, video, and sound—in your project.
+* Final project: improve upon one of your previous sketches or create something new!
