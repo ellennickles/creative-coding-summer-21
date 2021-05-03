@@ -19,6 +19,13 @@
 TBD
 
 ### Class 02
+[Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
+
+#### In class:
+TBD
+
+#### Homework:
+TBD
 
 ## Week 02: Interaction and Repetition
 
