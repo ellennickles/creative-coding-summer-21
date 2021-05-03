@@ -1,4 +1,12 @@
 # Carrie's Section / Schedule & Homework
+## Week 00: Drawing in p5,js
+***To be completed before the 1st class.***
+* Watch: [Coding Train videos 1.1-1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* Log in to the [p5 web editor](https://editor.p5js.org/).
+* Use [2D primitive shapes](https://p5js.org/reference/#group-Shape) to create a “self-portrait” in p5. Add comments to your code to describe the different parts, e.g. eyes, nose, mouth, etc. ***Keep it simple. Save your sketch and bring it to the first class!***
+* Here are some examples: 
+[martian moon man](http://alpha.editor.p5js.org/shawn/sketches/BklPEB_3)
+[Carrie’s self portrait](https://editor.p5js.org/re7l/sketches/bdeNXvE9f)
 
 ## Week 01: Introduction and Animation
 **Key ideas:**
