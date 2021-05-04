@@ -1,5 +1,5 @@
 # Carrie's Section / Schedule & Homework
-## Week 00: Drawing in p5,js
+## Week 00: Drawing in p5.js
 ***To be completed before the 1st class.***
 * Watch: [Coding Train videos 1.1-1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * Log in to the [p5 web editor](https://editor.p5js.org/).
