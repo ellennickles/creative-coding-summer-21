@@ -25,7 +25,9 @@ If no appointments are available, please send your instructor an email with thre
 
 **Course Discord Channel:** #creative-coding
 
-**[General Resources & Inspiration](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/schedule.md)**
+**How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/example-code-questions.md)
+
+**[General Resources & Inspiration](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/resources.md)**
 
 ## Description
 This is a hands-on introduction to programming the computer for creative applications. This course will introduce computational thinking and explore fundamental coding concepts, such as logic sequencing, data structures, data flow, and event-drive interactions in the context of screen-based projects. Iterative assignments will facilitate the development of a final creative code-driven experience. The open source, JavaScript-based [p5.js](https://p5js.org/) programming framework for creative coding is the primary vehicle for the class using the [web editor for p5.js](https://editor.p5js.org/). Both sections assume no programming experience at all. [TBD - Independent studies are available for students who already have experience with programming in JavaScript and p5.js.]()
