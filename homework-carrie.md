@@ -14,33 +14,52 @@
 * Animating your drawing in p5.
 * What are variables and why should we use them?
 
-### // Class 01 //
+### // Class 01 // Introduction
 [Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
 
 #### In class:
-* Welcome and self introductions
-* Overview of the class
+* Welcome and self introductions.
+* Overview of the class.
 * What is creative coding?
-* Review p5 basics and drawing 2D shapes
-* Summary & homework assignment
+* **Group Work:** Review p5 basics and drawing 2D shapes.
+* Summary & homework assignment.
 
-#### Homework:
-TBD
+#### Homework Assignment:
+* Complete [Worksheet 0]() to test yourself.
+* Watch [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) for the next class.
 
-### // Class 02 //
+### // Class 02 // Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
 
 #### In class:
-TBD
+* Remaining questions about drawing with 2D shapes.
+* **Group Work:** How do we animate our p5 self portraits?
+* What are variables and why do we need them?
+* **Demo and Group Work:** creating a drawing program.
+* Summary & homework assignment.
 
-#### Homework:
-TBD
+#### Homework Assignment:
+* Complete [Worksheet 1]().
+* Watch [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
+* Create a sketch that includes all of these and write about it in a blog post:
+  * One element controlled by the mouse.
+  * One element that changes over time, independently of the mouse.
+  * One element that is different every time you run the sketch.
+  * **Submit your sketches [here]().
 
 ## Week 02: Interaction and Repetition
+**Key ideas:**
+* Introducing conditional statements.
+* Make the computer do all the work using loops and nested loops.
 
 ## Week 03: Organization
+**Key ideas:**
+* Learn to write our own functions.
+* Use object literal to organize code.
 
 ## Week 04: More Repetition
+* Create our own objects and object behaviors using object class.
+* What are arrays and what can we do with them?
 
 ## Week 05: Media, and Final Project
 **Key ideas:**
