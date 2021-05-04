@@ -45,7 +45,7 @@
   * One element controlled by the mouse.
   * One element that changes over time, independently of the mouse.
   * One element that is different every time you run the sketch.
-  * **Submit your sketches [here]().
+  * **Submit your sketches [here]().**
 
 ## Week 02: Interaction and Repetition
 **Key ideas:**
