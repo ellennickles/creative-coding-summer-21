@@ -1,5 +1,7 @@
 # Carrie's Section / Schedule & Homework
+————————————————————————————
 ## Week 00: Drawing in p5.js
+————————————————————————————
 ***To be completed before the 1st class.***
 * Watch: [Coding Train videos 1.1-1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * Log in to the [p5 web editor](https://editor.p5js.org/).
@@ -8,7 +10,9 @@
 [martian moon man](http://alpha.editor.p5js.org/shawn/sketches/BklPEB_3), [Carrie’s self portrait](https://editor.p5js.org/re7l/sketches/bdeNXvE9f)
 * **Submit your "self portrait" sketch [here](). We'll look at them in the first class!**
 
+————————————————————————————
 ## Week 01: Introduction and Animation
+————————————————————————————
 **Key ideas:**
 * What is creative coding and what can I do with it?
 * Animating your drawing in p5.
@@ -47,21 +51,29 @@
   * One element that is different every time you run the sketch.
   * **Submit your sketches [here]().**
 
+————————————————————————————
 ## Week 02: Interaction and Repetition
+————————————————————————————
 **Key ideas:**
 * Introducing conditional statements.
 * Make the computer do all the work using loops and nested loops.
 
+————————————————————————————
 ## Week 03: Organization
+————————————————————————————
 **Key ideas:**
 * Learn to write our own functions.
 * Use object literal to organize code.
 
+————————————————————————————
 ## Week 04: More Repetition
+————————————————————————————
 * Create our own objects and object behaviors using object class.
 * What are arrays and what can we do with them?
 
+————————————————————————————
 ## Week 05: Media, and Final Project
+————————————————————————————
 **Key ideas:**
 * Using media—image, video, and sound—in your project.
 * Final project: improve upon one of your previous sketches or create something new!
