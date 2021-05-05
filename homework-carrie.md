@@ -47,7 +47,7 @@
 #### Homework Assignment:
 * Complete [Worksheet 1]().
 * Watch [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
-* Create a sketch that includes all of these and write about it in a blog post:
+* Create a sketch that includes all of these:
   * One element controlled by the mouse.
   * One element that changes over time, independently of the mouse.
   * One element that is different every time you run the sketch.
