@@ -61,6 +61,39 @@
 * Introducing conditional statements.
 * Make the computer do all the work using loops and nested loops.
 
+### // Class 01 // Homework Presentations & Conditional Statements
+[Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
+
+#### In class:
+* Presenting your animation sketches.
+* Remaining questions about variables.
+* Introduction to conditional statements.
+* **Demo:** using the bouncing ball logic to bounce something else.
+* **Group Work:** boolean variable challenge
+* Summary, preview, and homework assignment.
+
+#### Homework Assignment:
+* Rewatch the videos in [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) that you didn't quite understand.
+* Play with the example sketches from today's class.
+
+### // Class 02 // Loops and Nested Loops
+[Slides](https://docs.google.com/presentation/d/1-GGA5kOeXLDiXvv5bMdBdcL8Ia1gZdwhFK6IZ1RJe40/edit?usp=sharing)
+
+#### In class:
+* Checking in: how's everyone doing so far?
+* **Demo:** introducing for loops.
+* **Group Work:** using for loops for a variety of things.
+* **Demo:** introducing nested for loops.
+* **Group Work:** animate the grid challenge.
+* Summary, preview, and homework assignment.
+
+#### Homework Assignment:
+* Complete [Worksheet 2]().
+* Watch [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
+* Create a sketch that includes conditional statements and loops! Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example! Be creative and do a lot of explorations!
+**Submit your sketches [here]().**
+
+
 ————————————————————————————
 ## Week 03: Organization
 ————————————————————————————
