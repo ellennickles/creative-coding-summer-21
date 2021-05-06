@@ -91,8 +91,7 @@
 * Complete [Worksheet 2]().
 * Watch [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
 * Create a sketch that includes conditional statements and loops! Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example! Be creative and do a lot of explorations!
-**Submit your sketches [here]().**
-
+  * **Submit your sketches [here]().**
 
 ————————————————————————————
 ## Week 03: Organization
