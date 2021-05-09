@@ -1,10 +1,10 @@
 # Carrie's Section / Schedule & Homework
-Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
-Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
-Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
-Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
-Week 04: [More Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition)
-Week 05: [Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-media-and-final-project)
+* Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
+* Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
+* Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
+* Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
+* Week 04: [More Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition)
+* Week 05: [Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-media-and-final-project)
 
 ————————————————————————————
 ## Week 00: Drawing in p5.js
