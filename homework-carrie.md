@@ -68,7 +68,7 @@
 * Introducing conditional statements.
 * Make the computer do all the work using loops and nested loops.
 
-### // Class 01 // Homework Presentations & Conditional Statements
+### // Class 01 // Homework Sharing & Conditional Statements
 [Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
 
 #### In class:
