@@ -137,7 +137,7 @@
 * TEST YOURSELF // Complete [Worksheet 3]().
 * WATCH // Finish watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays.
 * CREATE // Make a new sketch or reuse an old one, and use functions and object literals to organize your code.
- * **Submit your sketches [here]().**
+  * **Submit your sketches [here]().**
 
 ————————————————————————————
 ## Week 04: More Repetition
@@ -178,11 +178,11 @@
 * TEST YOURSELF // Complete [Worksheet 4]().
 * FINAL PROJECT // Start working on final projects. Come to class with an update on what you plan to do and your progress.
 * WATCH (Optional) // 
- * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
- * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
- * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
+  * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
+  * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+  * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
 * CREATE (Optional) // Make a sketch using objects and arrays.
- * **Submit your sketches [here]().**
+  * **Submit your sketches [here]().**
 
 ————————————————————————————
 ## Week 05: Media, and Final Project
