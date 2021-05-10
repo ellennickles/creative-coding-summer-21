@@ -72,7 +72,7 @@
 [Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
 
 #### In class:
-* Presenting your animation sketches.
+* Present your animation sketches.
 * Remaining questions about variables.
 * Introduction to conditional statements.
 * **Demo:** using the bouncing ball logic to bounce something else.
@@ -112,7 +112,7 @@
 [Slides]()
 
 #### In class:
-* Sharing your homework sketches.
+* Share your homework sketches.
 * Remaining questions about loops.
 * Introduction to object literal.
 * **Group Work:** practice using object literal.
@@ -146,6 +146,43 @@
 **Key ideas:**
 * Create our own objects and object behaviors using object class.
 * What are arrays and what can we do with them?
+
+### // Class 01 // Homework Sharing and Arrays
+[Slides]()
+
+#### In class:
+* Checking in: looking back at what we have learned, any questions or comments about anything?
+* Share your homework sketches from last week.
+* Introduction to arrays.
+* **Group Work:** random selector challenge.
+* **Demo:** an update to the drawing program—using an array!
+* Summary, and homework assignment.
+
+#### Homework Assignment:
+* WATCH // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
+* FINAL PROJECT // Start thinking about your final project! What do you want to make? You can make one of your previous sketches better, or make a new one. You're encouraged to incorporate some of the new things we are covering this or next week—objects, arrays, video, sound.
+
+### // Class 02 // Objects
+[Slides]()
+
+#### In class:
+* Let’s talk about objects: how’s everyone feeling after watching the videos?
+* Introduction to objects.
+* **Demo:** making an object class and writing object functions.
+* **Group Work:** create your own object class and make an array of them.
+* Final projects: expectation, ideas, and incorporating video and sound.
+* Quick preview: video and sound.
+* Summary, and homework assignment.
+
+#### Homework Assignment:
+* TEST YOURSELF // Complete [Worksheet 4]().
+* FINAL PROJECT // Start working on final projects. Come to class with an update on what you plan to do and your progress.
+* WATCH (Optional) // 
+ * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
+ * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
+ * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
+* CREATE (Optional) // Make a sketch using objects and arrays.
+ * **Submit your sketches [here]().**
 
 ————————————————————————————
 ## Week 05: Media, and Final Project
