@@ -38,8 +38,8 @@
 * Summary & homework assignment.
 
 #### Homework Assignment:
-* Complete [Worksheet 0]() to test yourself.
-* Watch [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) for the next class.
+* TEST YOURSELF // Complete [Worksheet 0]() to test yourself.
+* WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) for the next class.
 
 ### // Class 02 // Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
@@ -52,9 +52,9 @@
 * Summary & homework assignment.
 
 #### Homework Assignment:
-* Complete [Worksheet 1]().
-* Watch [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
-* Create a sketch that includes all of these:
+* TEST YOURSELF // Complete [Worksheet 1]().
+* WATCH // [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
+* CREATE // Make a sketch that includes all of these:
   * One element controlled by the mouse.
   * One element that changes over time, independently of the mouse.
   * One element that is different every time you run the sketch.
@@ -95,9 +95,9 @@
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* Complete [Worksheet 2]().
-* Watch [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
-* Create a sketch that includes conditional statements and loops! Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example! Be creative and do a lot of explorations!
+* TEST YOURSELF // Complete [Worksheet 2]().
+* WATCH // [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
+* CREATE // Make a sketch that includes conditional statements and loops! Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example! Be creative and do a lot of explorations!
   * **Submit your sketches [here]().**
 
 ————————————————————————————
@@ -105,8 +105,39 @@
 ————————————————————————————
 
 **Key ideas:**
-* Learn to write our own functions.
 * Use object literal to organize code.
+* Learn to write our own functions.
+
+### // Class 01 // Homework Sharing and Object Literal
+[Slides]()
+
+#### In class:
+* Sharing your homework sketches.
+* Remaining questions about loops.
+* Introduction to object literal.
+* **Group Work:** practice using object literal.
+* Summary, preview, and homework assignment.
+
+#### Homework Assignment:
+* WATCH // Start watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays. It is due next week. There is a lot of content to take in, so start early!
+* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in the next class.
+
+### // Class 02 // Functions
+[Slides]()
+
+#### In class:
+* Share inspirations.
+* Writing our own functions.
+* **Group Work:** write an abstract bounce function.
+* Callback function and a little bit of DOM.
+* Preview: objects and arrays.
+* Summary, and homework assignment.
+
+#### Homework Assignment:
+* TEST YOURSELF // Complete [Worksheet 3]().
+* WATCH // Finish watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays.
+* CREATE // Make a new sketch or reuse an old one, and use functions and object literals to organize your code.
+ * **Submit your sketches [here]().**
 
 ————————————————————————————
 ## Week 04: More Repetition
