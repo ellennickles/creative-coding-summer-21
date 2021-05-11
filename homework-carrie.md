@@ -191,3 +191,32 @@
 **Key ideas:**
 * Using media—image, video, and sound—in your project.
 * Final project: improve upon one of your previous sketches or create something new!
+
+### // Class 01 // Image, Video, and Sound
+[Slides]()
+
+#### In class:
+* Remaining questions about objects and arrays.
+* **Demo:** working with sound files.
+* **Demo:** visualizing mic input.
+* **Demo:** working with image video files.
+* **Demo:** webcam input.
+* Share final project ideas.
+* Summary, and homework assignment.
+
+#### Homework Assignment:
+* FINAL PROJECT // Finish your final project. Be prepared to present your project in class.
+  * You’ll each have about seven minutes to present your project and get feedback.
+  * When you present, show us your final result, and walk us through your code. It is important that you explain what you have done in your code to achieve your result.
+  * If you have any inspirations, show your inspirations.
+  * What was your goal? Did it work out as planned? 
+  * If you are to continue your project, what are some potentials?
+  * **Submit links to your final projects [here]().**
+
+### // Class 02 // Final Project Presentations
+[Slides]()
+
+#### In class:
+* Welcome and general notes.
+* Final project presentations.
+* Fill out course evaluation forms.
