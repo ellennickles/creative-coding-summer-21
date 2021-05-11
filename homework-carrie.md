@@ -159,8 +159,8 @@
 * Summary, and homework assignment.
 
 #### Homework Assignment:
-* WATCH // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
 * FINAL PROJECT // Start thinking about your final project! What do you want to make? You can make one of your previous sketches better, or make a new one. You're encouraged to incorporate some of the new things we are covering this or next week—objects, arrays, video, sound.
+* WATCH (Optional) // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
 
 ### // Class 02 // Objects
 [Slides]()
