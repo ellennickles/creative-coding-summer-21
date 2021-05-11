@@ -39,7 +39,7 @@
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 0]() to test yourself.
-* WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) for the next class.
+* WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ### // Class 02 // Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
@@ -120,7 +120,7 @@
 
 #### Homework Assignment:
 * WATCH // Start watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays. It is due next week. There is a lot of content to take in, so start early!
-* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in the next class.
+* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in class.
 
 ### // Class 02 // Functions
 [Slides]()
