@@ -33,7 +33,8 @@
 #### In class:
 * Welcome and self introductions.
 * Overview of the class.
-* What is creative coding?
+* Creative applications of computational media.
+* What is p5.js?
 * **Group Work:** Review p5 basics and drawing 2D shapes.
 * Summary & homework assignment.
 
