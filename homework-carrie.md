@@ -53,13 +53,13 @@
 * Summary & homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 1](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing).
+* TEST YOURSELF // Complete [Worksheet 1](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit#heading=h.l9r5tajacegp).
 * WATCH // [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditionals and repeat loops for next week's classes.
 * CREATE // Make a sketch that includes all of these:
   * One element controlled by the mouse.
   * One element that changes over time, independently of the mouse.
   * One element that is different every time you run the sketch.
-  * **Submit your sketches [here](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing).**
+  * **Submit your sketches [here](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
 ## Week 02: Interaction and Repetition
