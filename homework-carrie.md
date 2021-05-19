@@ -96,10 +96,10 @@
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 2]().
+* TEST YOURSELF // Complete [Worksheet 2](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit?usp=sharing).
 * WATCH // [Coding Train Videos 5.1-5.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing functions.
 * CREATE // Make a sketch that includes conditional statements and loops! Feel free to base your sketch off of the examples we went through in class, but make sure you do something different to the example! Be creative and do a lot of explorations!
-  * **Submit your sketches [here]().**
+  * **Submit your sketches [here](https://docs.google.com/document/d/1Rt4JelWO78I9JVwkk9txHnSFes0Dmb-5BHVKCe6Mvyo/edit#heading=h.1r16hkyvt9hd).**
 
 ————————————————————————————
 ## Week 03: Organization
