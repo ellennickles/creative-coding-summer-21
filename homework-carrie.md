@@ -132,10 +132,10 @@
 #### In class:
 * Share inspirations.
 * Writing our own functions.
-* **Group Work:** write an abstract bounce function.
+* **Group Work:** use functions and loops to create patterns.
 * Callback function and a little bit of DOM.
 * Preview: objects and arrays.
-* Summary, and homework assignment.
+* Summary and homework assignment.
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 3]().
