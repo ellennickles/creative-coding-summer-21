@@ -10,4 +10,26 @@
 
 
 ## Inspiration
-TBA
+### Projection / Installation
+* [Levitation - Flattening Red and Blue & Blurred Violet](https://www.teamlab.art/w/levitation/) / teamLab, 2021
+* [Dirtscraper](http://www.peterburr.org/dirtscraper.php) / peter burr, 2018
+* [test pattern](https://www.ryojiikeda.com/project/testpattern/) / Ryoji Ikeda, 2008 - 2019
+* [The Sweet Screen](https://studiomoniker.com/projects/the-sweet-screen) / Studio Moniker, 2020
+
+### Performance
+* [discrete figures](https://research.rhizomatiks.com/s/works/discrete_figures/en/) / EVENTPLAY, Rhizomatiks, Kyle McDonald, 2018
+* [24h HOST](https://lauren-mccarthy.com/24h-HOST) / Lauren Lee McCarthy
+* [DeepTalking](http://xxx.tiri.xxx/work/deeptalking/) / Tiri Kananuruk, 2018
+
+### Text / Chatbot
+* [Sandy Speaks](https://americanartist.us/works/sandy-speaks) / American Artist, 2016-2017
+
+### Web Applications / Games
+* [A Dark Room](https://adarkroom.doublespeakgames.com/) / doublespeak games, 2013
+* [Papers, Please](https://papersplea.se/) / Lucas Pope, 2013
+* [Hanzi Maker](https://thefutureofmemory.online/hanzi-maker/) / Qianqian Ye, Xiaowei Wang, 2020
+* [Survival of the Best Fit](https://www.survivalofthebestfit.com/) / Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, 2019
+* [Land Lines](https://lines.chromeexperiments.com/) / Zach Lieberman, 2016
+* [I Miss the Office](https://imisstheoffice.eu/) / Kids Creative Agency
+* [Zoom Escaper](https://lav.io/projects/zoom-escaper/) / Sam Lavigne, 2021
+
