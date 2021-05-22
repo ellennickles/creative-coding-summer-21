@@ -113,7 +113,7 @@
 * Learn to write our own functions.
 
 ### // Class 01 // Homework Sharing and Object Literal
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
 
 #### In class:
 * Share your homework sketches.
@@ -127,7 +127,7 @@
 * Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in class. Tell us what the project is about. Why do you like it? What role does technology play in this project? Do you imagine creating something inspired by this in the near future?
 
 ### // Class 02 // Functions
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
 
 #### In class:
 * Share inspirations.
@@ -138,10 +138,13 @@
 * Summary and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 3]().
+* TEST YOURSELF // Complete [Worksheet 3](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit?usp=sharing).
 * WATCH // Finish watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays.
-* CREATE // Make a new sketch or reuse an old one, and use functions and object literals to organize your code.
-  * **Submit your sketches [here]().**
+* CREATE // Make a sketch that includes some of the following elements: 
+  * Reusable functions that take at least one parameter.
+  * Object literals.
+  * DOM objects such as buttons and sliders.
+  * **Submit your sketches [here](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
 ## Week 04: More Repetition
