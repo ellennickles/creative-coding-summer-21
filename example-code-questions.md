@@ -18,7 +18,7 @@ Figuring out how to ask questions in a technical class can be a learning process
 * What is the plus for here?
 
 ```javascript
-print("Position: " + x);
+console.log("Position: " + x);
 ```
 
 ## Whys and Whatfors?
