@@ -170,7 +170,7 @@
 * WATCH (Optional) // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
 
 ### // Class 02 // Objects
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
 * Let’s talk about objects: how’s everyone feeling after watching the videos?
