@@ -155,7 +155,7 @@
 * What are arrays and what can we do with them?
 
 ### // Class 01 // Homework Sharing and Arrays
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
 * Checking in: looking back at what we have learned, any questions or comments about anything?
