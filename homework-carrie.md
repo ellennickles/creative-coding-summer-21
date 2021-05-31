@@ -173,11 +173,11 @@
 [Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
-* Let’s talk about objects: how’s everyone feeling after watching the videos?
+* Remaining questions about arrays.
 * Introduction to objects.
-* **Demo:** making an object class and writing object functions.
+* **Demo:** creating and using objects.
 * **Group Work:** create your own object class and make an array of them.
-* Final projects: expectation, ideas, and incorporating video and sound.
+* Final projects: expectations.
 * Quick preview: video and sound.
 * Summary, and homework assignment.
 
