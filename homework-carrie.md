@@ -183,7 +183,7 @@
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 4]().
-* FINAL PROJECT // Start working on final projects. Come to class with an update on what you plan to do and your progress.
+* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new. Come to class on Monday with an update on your progress.
 * WATCH (Optional) // 
   * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
   * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
