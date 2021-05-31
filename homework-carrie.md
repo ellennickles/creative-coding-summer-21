@@ -182,14 +182,21 @@
 * Summary, and homework assignment.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 4]().
-* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new. Come to class on Monday with an update on your progress.
+* TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
+
+* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new.
+  * Decide what you want to do for your final.
+  * Make some progress on your project.
+  * Add ONE slide to [this slidedeck](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing).
+  * On Monday, you will have about three minutes total to share your progress and get some feedback.
+
 * WATCH (Optional) // 
   * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
   * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
   * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
+
 * CREATE (Optional) // Make a sketch using objects and arrays.
-  * **Submit your sketches [here]().**
+  * **Submit your sketches [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
 ## Week 05: Media, and Final Project
