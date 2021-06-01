@@ -207,28 +207,27 @@
 * Final project: improve upon one of your previous sketches or create something new!
 
 ### // Class 01 // Image, Video, and Sound
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1K-4Uw_Tx6kOrN9tYLd5iFgr14JHECLlY0-OJclKDch8/edit?usp=sharing)
 
 #### In class:
 * Remaining questions about objects and arrays.
 * **Demo:** working with sound files.
 * **Demo:** visualizing mic input.
-* **Demo:** working with image video files.
+* **Demo:** working with image and video files.
 * **Demo:** webcam input.
-* Share final project ideas.
+* Share final project ideas and progress.
 * Summary, and homework assignment.
 
 #### Homework Assignment:
-* FINAL PROJECT // Finish your final project. Be prepared to present your project in class.
-  * You’ll each have about seven minutes to present your project and get feedback.
+* FINAL PROJECT // Finish your final project. Get ready to present your project (3 minutes if you’re going solo, 5 minutes if you’re in a team):
+  * **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1pTG8_CRvE6BxlDi0YswiSpOipH8sl0Yggq4yRWqyuGY/edit?usp=sharing).**
   * When you present, show us your final result, and walk us through your code. It is important that you explain what you have done in your code to achieve your result.
   * If you have any inspirations, show your inspirations.
   * What was your goal? Did it work out as planned? 
   * If you are to continue your project, what are some potentials?
-  * **Submit links to your final projects [here]().**
 
 ### // Class 02 // Final Project Presentations
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing)
 
 #### In class:
 * Welcome and general notes.
