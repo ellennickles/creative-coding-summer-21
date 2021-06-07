@@ -17,7 +17,7 @@ _PLEASE NOTE: This syllabus is work in progress and subject to change._
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
 
-If no appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite and Zoom link.
+If no appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## Support
 **Course Resident:** TBA  
