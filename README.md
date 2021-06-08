@@ -6,18 +6,18 @@ _PLEASE NOTE: This syllabus is work in progress and subject to change._
 ## Course Sections
 
 ### Section 1
-**Time:** Mon/Wed 10:30am - 12:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
+**Time:** Mon & Wed 10:30am - 12:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
 ### Section 2
-**Time:** Mon/Wed 8:00pm - 10:00pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
+**Time:** Mon & Wed 8:30pm - 10:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
 
-If no appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
+If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## Support
 **Course Resident:** TBA  
