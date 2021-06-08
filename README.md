@@ -90,7 +90,7 @@ The core of the educational experience at the Tisch School of the Arts is the cr
 
 At NYU Shanghai, a commitment to excellence, fairness, honesty, and respect within and outside the classroom is essential to maintaining the integrity of our community. By accepting membership in this community, students take responsibility for demonstrating these values in their own conduct and for recognizing and supporting these values in others. In turn, these values will create a campus climate that encourages the free exchange of ideas, promotes scholarly excellence through active and creative thought, and allows community members to achieve and be recognized for achieving their highest potential.
 
-### Use of Free and Open Source Materials (including code)
+### Statement on the Use of Free and Open Source Materials (including code)
 This statement is adapted from Dan Shiffman’s [Code! Course](https://docs.google.com/document/d/18UjdDrXUMKgNjIiee9d2WeyV1Z8V1RfBEElkzWKXvbk/edit#) (Spring 2020) at New York University and Golan Levin’s [Interactivity and Computation Course](http://cmuems.com/2018/60212f/syllabus/academic-integrity/) (Fall 2018) at Carnegie Mellon University.
 
 **You must cite the source of any material / code you use** with the exception of examples specifically provided by the instructors or demonstrated in media assets for the program courses. Please note the following additional expectations and guidelines:
