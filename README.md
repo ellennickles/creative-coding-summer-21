@@ -44,7 +44,7 @@ Upon completion of this course, we will be able to:
 * practice and apply these coding concepts and debugging approaches in our creative work using p5.js.
 
 ## Community Guidelines
-Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](https://docs.google.com/document/d/1QH9lqtzUl8qOX9goJIKEmvMUpfPgLjRJpKm-UPPnFHs/edit#heading=h.4qxpmfter73o), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the Creative Coding Summer 2021 classes.
+Following [NYU's Student Conduct Policies](https://tinyurl.com/scpnyu) and the [IMA Low Res Rules of Play](https://docs.google.com/document/d/1QH9lqtzUl8qOX9goJIKEmvMUpfPgLjRJpKm-UPPnFHs/edit#heading=h.4qxpmfter73o), we are committed to providing an inclusive, welcoming, and harassment-free space for everyone in the community. Harassment or discrimination in any form will not be tolerated, and this applies to any interactions and content in all IMA Low Res spaces including but not limited to the NYU IMA Low Res Creative Coding Summer 2021 classes.
 
 ## Structure and Teaching Methodology
 This is a 5-week course that meets twice a week, synchronously in Zoom. We will have assignments to do before each class, and these assignments will build towards a final project that we will present at the end of the semester.
