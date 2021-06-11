@@ -20,15 +20,15 @@ _PLEASE NOTE: This syllabus is work in progress and subject to change._
 If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## Support
-**Course Resident:** TBA  
-**Email:** [Email Address TBA](mailto:)  
-**Office Hours:** TBA [Sign up here - Link TBA](URL_TBA)
+**Course Residents:** Rashida Kamal and Yuguang Zhang   
+**Email and Office Hours:** [Contact and sign up here - Link TBA](URL_TBA)
 
 **Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
+* Discourse is an asynchronous Q&A forum for peer support for troubleshooting and solving technical issues, as well as for archiving discussions long-term. As more questions accumulate over time, it will become a useful technical support resource for everyone in our community. Feel free to answer other students' questions, too!
+* **How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/example-code-questions.md)
 
-**Course Discord Channel:** #creative-coding
-
-**How to ask code-related questions:** [Some examples](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/example-code-questions.md)
+**Course Discord Channel:** [#creative-coding](https://discord.com/channels/837378120096940062/851891869151658009)
+* Think of Discord as chat. It’s a platform designed for synchronous connections and community messaging. If you need a question answered in real-time, consider posting here to chat with an instructor, a resident, or a student who is currently online.
 
 **[General Resources & Inspiration](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/resources.md)**
 
