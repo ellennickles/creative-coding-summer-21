@@ -8,20 +8,20 @@ _PLEASE NOTE: This syllabus is work in progress and subject to change._
 ### Section 1
 **Time:** Mon & Wed 10:30am - 12:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
-**Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
+**Contact:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her)  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
 ### Section 2
 **Time:** Mon & Wed 8:30pm - 10:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
-**Email:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu)  
+**Contact:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu) or Discord @Carrie Wang  
 **Office Hours:** TBA [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
 
 If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## Support
 **Course Residents:** Rashida Kamal and Yuguang Zhang   
-**Email and Office Hours:** [Contact and sign up here - Link TBA](URL_TBA)
+**Contact and Office Hours:** [Contact and sign up here - Link TBA](URL_TBA)
 
 **Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
 * Discourse is an asynchronous Q&A forum for peer support for troubleshooting and solving technical issues, as well as for archiving discussions long-term. As more questions accumulate over time, it will become a useful technical support resource for everyone in our community. Feel free to answer other students' questions, too!
