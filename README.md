@@ -40,7 +40,7 @@ Upon completion of this course, we will be able to:
 * describe possibilities of computational thinking and coding for creative applications;
 * recognize p5.js as a Javascript framework for drawing graphics and working with media on the HTML Canvas element of a web page;
 * identify fundamental coding concepts, such as variables, conditionals, iteration, functions, arrays, and objects;
-* identify approaches to debug errors in our code, including how to interpret error messages and printing messages to the Console of the p5.js web editor;
+* identify approaches to debug errors in our code, including how to interpret error messages and print messages to the Console of the p5.js web editor;
 * practice and apply these coding concepts and debugging approaches in our creative work using p5.js.
 
 ## Community Guidelines
