@@ -1,8 +1,6 @@
 # Creative Coding
 NYU IMA Low Res | Summer 2021
 
-***PLEASE NOTE: This syllabus is work in progress and subject to change.***
-
 ## Course Sections
 
 ### Section 1
