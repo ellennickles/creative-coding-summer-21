@@ -21,7 +21,7 @@ If no office hours appointments are available, please send your instructor an em
 
 ## Support
 **Course Residents:** Rashida Kamal and Yuguang Zhang   
-**Contact and Office Hours:** [Contact and sign up here - Link TBA](URL_TBA)
+**Contact and Office Hours:** [Email and calendar sign up](https://www.notion.so/imalowres/c22659dbfffd47ad8eaf20d4a1db0d43?v=c4229d5490f54b65bb159e804478d429)
 
 **Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
 * Discourse is an asynchronous Q&A forum for peer support for troubleshooting and solving technical issues, as well as for archiving discussions long-term. As more questions accumulate over time, it will become a useful technical support resource for everyone in our community. Feel free to answer other students' questions, too!
