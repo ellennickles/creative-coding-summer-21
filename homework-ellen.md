@@ -1,14 +1,14 @@
 # Ellen's Section / Schedule & Homework
 Meeting Mon & Wed 10:30am - 12:30pm ET
 
-- [Course Resources]()
-- [Homework Guidelines]()
-- Week 0: [Pre-Work and Drawing in p5.js]()
-- Week 1: [Introduction and Animation]()
-- Week 2: [Interaction and Repetition]()
-- Week 3: [Organization]()
-- Week 4: [More Repetition, Start Media]()
-- Week 5: [More Media and Final Project]()
+- [Course Resources](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#course-resources)
+- [Homework Guidelines](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#homework-guidelines)
+- Week 0: [Pre-Work and Drawing in p5.js](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-0-pre-work-and-drawing-in-p5js)
+- Week 1: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-1-introduction-and-animation)
+- Week 2: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-2-interaction-and-repetition)
+- Week 3: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-3-organization)
+- Week 4: [More Repetition and Start Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-4-more-repetition-and-start-media)
+- Week 5: [More Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-more-media-and-final-project)
 
 ---
 
