@@ -58,7 +58,7 @@ We are encouraged to reach out to the instructors outside of class to ask questi
 * We will also have weekly programming assignments that are relevant to the material from previous classes. Each week will include a series of practice questions and one open-ended exercise to apply the concepts that we practiced in class. The assignments are required, and we should be prepared to show and talk about them in class. 
 * We should submit our weekly programming assignments by the following deadlines:
     * For Section 1 with Ellen, submit by 6:00am ET the day of our class.
-    * For Section 2 with Carrie, submit by 11:59am ET the day of our class. 
+    * For Section 2 with Carrie, submit by 10:00am ET the day of our class. 
 
 ### Final Project
 * The course will culminate with the completion of a final project to be shared in class. 
