@@ -27,7 +27,7 @@
 * Animating your drawing in p5.
 * What are variables and why should we use them?
 
-### // Class 01 // Introduction
+### // Class 01 // July 12 // Introduction
 [Slides](https://docs.google.com/presentation/d/1bOabhQZPJqxnZ1wRwKZHRhhmFoM6-KblXgFBEwlqyK8/edit?usp=sharing)
 
 #### In class:
@@ -42,7 +42,7 @@
 * TEST YOURSELF // Complete [Worksheet 0](https://docs.google.com/document/d/1LrgtRE8Bivf0rcE6XpapoVU11YZ9wHuA4iTCWLYdOvQ/edit?usp=sharing) to test yourself.
 * WATCH // [Coding Train Videos 2.1-2.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-### // Class 02 // Animation: Variables
+### // Class 02 // July 14 //Animation: Variables
 [Slides](https://docs.google.com/presentation/d/17YgYC0uraEGy-h3lh8HEXQG1tDPRMLOF84Eevho1-Uw/edit?usp=sharing)
 
 #### In class:
@@ -69,7 +69,7 @@
 * Introducing conditional statements.
 * Make the computer do all the work using loops and nested loops.
 
-### // Class 01 // Homework Sharing & Conditional Statements
+### // Class 01 // July 19 // Homework Sharing & Conditional Statements
 [Slides](https://docs.google.com/presentation/d/139NFVQlZPVHn5DuvDDH-hF-4bbo999hcVx5hIJHedJ4/edit?usp=sharing)
 
 #### In class:
@@ -84,7 +84,7 @@
 * Rewatch the videos in [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) that you didn't quite understand.
 * Play with the example sketches from today's class.
 
-### // Class 02 // Loops and Nested Loops
+### // Class 02 // July 21 // Loops and Nested Loops
 [Slides](https://docs.google.com/presentation/d/1-GGA5kOeXLDiXvv5bMdBdcL8Ia1gZdwhFK6IZ1RJe40/edit?usp=sharing)
 
 #### In class:
@@ -112,7 +112,7 @@
 * Use object literal to organize code.
 * Learn to write our own functions.
 
-### // Class 01 // Homework Sharing and Object Literal
+### // Class 01 // July 26 // Homework Sharing and Object Literal
 [Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
 
 #### In class:
@@ -126,7 +126,7 @@
 * WATCH // Start watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays. It is due next week. There is a lot of content to take in, so start early!
 * Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in class. Tell us what the project is about. Why do you like it? What role does technology play in this project? Do you imagine creating something inspired by this in the near future?
 
-### // Class 02 // Functions
+### // Class 02 // July 28 // Functions
 [Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
 
 #### In class:
@@ -154,7 +154,7 @@
 * Create our own objects and object behaviors using object class.
 * What are arrays and what can we do with them?
 
-### // Class 01 // Homework Sharing and Arrays
+### // Class 01 // August 2 // Homework Sharing and Arrays
 [Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
@@ -169,7 +169,7 @@
 * FINAL PROJECT // Start thinking about your final project! What do you want to make? You can make one of your previous sketches better, or make a new one. You're encouraged to incorporate some of the new things we are covering this or next week—objects, arrays, video, sound.
 * WATCH (Optional) // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
 
-### // Class 02 // Objects
+### // Class 02 // August 4 // Objects
 [Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
@@ -206,7 +206,7 @@
 * Using media—image, video, and sound—in your project.
 * Final project: improve upon one of your previous sketches or create something new!
 
-### // Class 01 // Image, Video, and Sound
+### // Class 01 // August 9 // Image, Video, and Sound
 [Slides](https://docs.google.com/presentation/d/1K-4Uw_Tx6kOrN9tYLd5iFgr14JHECLlY0-OJclKDch8/edit?usp=sharing)
 
 #### In class:
@@ -226,7 +226,7 @@
   * What was your goal? Did it work out as planned? 
   * If you are to continue your project, what are some potentials?
 
-### // Class 02 // Final Project Presentations
+### // Class 02 // August 11 // Final Project Presentations
 [Slides](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing)
 
 #### In class:
