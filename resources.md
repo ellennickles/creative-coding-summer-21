@@ -6,12 +6,12 @@
 - Video tutorials:
   - [The Coding Train's Introduction to p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
   - [xin xin's Intro to Programming in p5.js](https://www.youtube.com/playlist?list=PLT233rQkMw761t_nQ_6GkejNT1g3Ew4PU)
+  - Qtv (Creative Coding Tutorials in Chinese): [on bilibili](https://space.bilibili.com/442343394)
+  - Qtv (Creative Coding Tutorials in Chinese): [on YouTube](https://www.youtube.com/channel/UCzMs9qg50AW2LEpLDzHT5NA/videos)
 - Written tutorials: 
   - Allison Parrish’s [Creative Coding Notes](https://creative-coding.decontextualize.com/)
   - Lauren Lee McCarthy's _Getting Started with p5.js_ [NYU Library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) (must be on VPN) / [Amazon](https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772/ref=as_li_ss_tl?ie=UTF8&qid=1472840406&sr=8-1&keywords=getting+started+with+p5.js&linkCode=sl1&tag=natureofcode-20&linkId=e1804640b0769d9cce7f1af4eed997de)
   - [HappyCoding.io](https://happycoding.io/)
-  - [Qtv (Creative Coding Tutorials in Chinese): on bilibili](https://space.bilibili.com/442343394)
-  - [Qtv (Creative Coding Tutorials in Chinese): on YouTube](https://www.youtube.com/channel/UCzMs9qg50AW2LEpLDzHT5NA/videos)
 
 
 ## Inspiration
