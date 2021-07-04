@@ -1,4 +1,7 @@
 # Carrie's Section / Schedule & Homework
+Class Meetings: Mon & Wed 8:30pm - 10:30pm New York Time
+[Residents' Office Hours](https://www.notion.so/imalowres/c22659dbfffd47ad8eaf20d4a1db0d43?v=c4229d5490f54b65bb159e804478d429) / [Carrie's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
+
 * Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
 * Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
 * Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
