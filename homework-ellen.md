@@ -72,6 +72,9 @@ ___
 - Course overview
 - Tips for learning to code
 
+**Examples:** 
+- HTML, CSS, JavaScript / p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
+
 **Homework assignment due Wed July 14:**
 - TEST YOURSELF • Complete questions 1-2 in [Worksheet 1](https://docs.google.com/document/d/1x3DCZA0-i6TPl9On5APDRa1FetS5aswDNQwsvJlnlYU/edit)
 - WATCH • [Coding Train Videos 2.1-2.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about variables, `random()`, and `map()` ~1hr
