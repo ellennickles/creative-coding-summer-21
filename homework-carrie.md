@@ -127,7 +127,7 @@ Class Meetings: Mon & Wed 8:30pm - 10:30pm New York Time / [Class Zoom Link](htt
 #### Homework Assignment:
 * FILL OUT THE SURVEY // Please take five minutes to fill out this [midterm check-in survey](https://forms.gle/QMhX29KT5K9bEpQJ6).
 * WATCH // Start watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays. It is due next week. There is a lot of content to take in, so start early!
-* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/blob/main/resources.md)! Be prepared to share something about it in class. Tell us what the project is about. Why do you like it? What role does technology play in this project? Do you imagine creating something inspired by this in the near future?
+* Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/wiki)! Be prepared to share something about it in class. Tell us what the project is about. Why do you like it? What role does technology play in this project? Do you imagine creating something inspired by this in the near future?
 
 ### // Class 02 // July 28 // Functions
 [Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
