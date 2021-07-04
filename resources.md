@@ -12,6 +12,7 @@
   - Allison Parrish’s [Creative Coding Notes](https://creative-coding.decontextualize.com/)
   - Lauren Lee McCarthy's _Getting Started with p5.js_ [NYU Library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) (must be on VPN) / [Amazon](https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772/ref=as_li_ss_tl?ie=UTF8&qid=1472840406&sr=8-1&keywords=getting+started+with+p5.js&linkCode=sl1&tag=natureofcode-20&linkId=e1804640b0769d9cce7f1af4eed997de)
   - [HappyCoding.io](https://happycoding.io/)
+- Processing Foundation Discourse: [A forum for asking / answering Processing and p5.js questions](https://discourse.processing.org/)
 
 
 ## Inspiration
