@@ -1,5 +1,5 @@
 # Ellen's Section / Schedule & Homework
-Meeting Mon & Wed 10:30am - 12:30pm ET
+Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 
 - [Course Resources](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#course-resources)
 - [Homework Guidelines](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#homework-guidelines)
@@ -14,6 +14,7 @@ Meeting Mon & Wed 10:30am - 12:30pm ET
 
 ## Course Resources
 - [Our class Miro board](https://miro.com/app/board/o9J_l_AWMRQ=/)
+- [Zoom Recordings](https://docs.google.com/document/d/18X3qcdSKYxIiFOTwoZdsQciARQstm-skmTYYwRmj1zA/edit)
 - [Syllabus](https://github.com/ellennickles/creative-coding-summer-21) with my contact information, office hours sign-up, and additional course support resources
 
 ---
@@ -41,8 +42,12 @@ ___
 ___
 
 **To be completed before the 1st class on July 12:**
+- DO (if you haven't already)
+    - Log in to the [p5 web editor](https://editor.p5js.org/).
+    - Sign up for a [Miro account](https://miro.com) (our interactive whiteboard).
+    - Have a place online to post your homework with the ability for me to provide support and feedback comments. This could be a website / blog or even a Google document. If you’re not sure what to use, please reach out to me so I can help.
+    - **Update to the latest version of Zoom**. We will use its new features in class.
 - WATCH • [Coding Train videos 1.1-1.6](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) ~1hr 20 min
-- DO • Log in to the [p5 web editor](https://editor.p5js.org/).
 - CREATE • Use [2D primitive shapes](https://p5js.org/reference/#group-Shape) to create a “self-portrait” in p5. Consult the [p5 Reference](https://p5js.org/reference/). Add comments to your code to describe the different parts, e.g. eyes, nose, mouth, etc. **Keep it simple!**
     - Here are some examples: 
 [martian moon man](http://alpha.editor.p5js.org/shawn/sketches/BklPEB_3), [Carrie’s self portrait](https://editor.p5js.org/re7l/sketches/bdeNXvE9f), [Ellen's self portrait](https://editor.p5js.org/enickles/sketches/Ttd4nMD9j).
@@ -95,8 +100,9 @@ ___
     - One element controlled by the mouse.
     - One element that changes over time, independently of the mouse.
     - One element that is different every time you run the sketch.
+    - (OPTIONAL) If you feel comfortable with variables and coding in general, how can you make your portrait expressive through animation and / or interaction? How might the interaction itself contribute to the expressiveness? For example, what are the possibilities if your sketch is responsive to [body](https://learn.ml5js.org/#/reference/posenet) / [face](https://learn.ml5js.org/#/reference/facemesh) / [hand](https://learn.ml5js.org/#/reference/handpose) movement?
     - Write a blog post that includes a link to your sketch.
-    - Submit your post [here](https://docs.google.com/document/d/10_j7x7dVWebLfOfaNahCtPa9XSX50FWNH5l0Tj9YC9s/edit?usp=sharing).
+    - [Submit your post here](https://docs.google.com/document/d/10_j7x7dVWebLfOfaNahCtPa9XSX50FWNH5l0Tj9YC9s/edit?usp=sharing).
 - WATCH • [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditional statements and loops ~1hr 25min
 
 ___
@@ -135,7 +141,7 @@ ___
     - Try creating an algorithmic design with simple parameters. One example is to invent your own [10PRINT](https://10print.org/) design. See [Coding Train Coding Challenge: 10PRINT](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&vl=en) and the [example code](https://gist.github.com/shiffman/e683b93f5600dbb7495f). A related source of inspiration: [Sol Lewitt's Wall Drawings](https://massmoca.org/sol-lewitt/).
     - Make a mini-calendar. Use iteration to render a row of visual elements for each of the days of the current month. All of the elements should be drawn identically, except for the one whose index corresponds to the current day. Differentiate this element in some way. Consider using p5's [`day()` function](https://p5js.org/reference/#/p5/day). (Source: _Code as a Creative Medium_.)
     - Write a blog post that includes a link to your sketch.
-    - Submit your post [here](https://docs.google.com/document/d/1VrXGEk_hTCX1jqMX8gBHo_-_1o55DJ6dYFRxxfeCKFk/edit).
+    - [Submit your post here](https://docs.google.com/document/d/1VrXGEk_hTCX1jqMX8gBHo_-_1o55DJ6dYFRxxfeCKFk/edit).
 - WATCH • [Coding Train Videos 5.1-5.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about functions and [Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays ~50 min
 
 ___
@@ -179,7 +185,7 @@ ___
     - Reorganize "groups of variables" into object literals.
     - For anything that repeats, use a loop to make it happen.
     - Write a blog post that includes a link to your sketch.
-    - Submit your post [here](https://docs.google.com/document/d/1niO3xN_NNvP1Zlr4AvxxwncpCm2ZkmCsASIn3VGVwW4/edit).
+    - [Submit your post here](https://docs.google.com/document/d/1niO3xN_NNvP1Zlr4AvxxwncpCm2ZkmCsASIn3VGVwW4/edit).
 - WATCH • [Coding Train Videos 6.2-6.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) and [7.3-7.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing classes to create many objects, using arrays with those objects, and interacting with the objects using the mouse ~1 hr 15 min
 
 ___
@@ -221,7 +227,7 @@ ___
 - FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class.
     - Write a blog post that includes a link to your sketch in progress. It's okay it if doesn't work exactly as you intend at this point.
     - Include your questions in the event that I can direct you to additional resources.
-    - Submit your post [here](https://docs.google.com/document/d/10hY3CriBpxX5HsrWiDtbilt25jCb8liABVnyTNdHxYM/edit).
+    - [Submit your post here](https://docs.google.com/document/d/10hY3CriBpxX5HsrWiDtbilt25jCb8liABVnyTNdHxYM/edit).
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
@@ -253,7 +259,7 @@ ___
 **Homework assignment due Wed Aug 11:**
 - Finish your final project. 
 - Update your blog post from Monday or start a new one to document it. 
-- Submit your post [here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
+- [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
 - Prepare a 3-min presentation to share with the class. 
     - Introduce your project. What was your goal or inspiration?
     - Demo it. If it's interactive, deconstruct the interaction for us to show the effect or behavior it produces.
