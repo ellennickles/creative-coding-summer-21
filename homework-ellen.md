@@ -100,7 +100,7 @@ ___
     - One element controlled by the mouse.
     - One element that changes over time, independently of the mouse.
     - One element that is different every time you run the sketch.
-    - (OPTIONAL) If you feel comfortable with variables and coding in general, how can you make your portrait expressive through animation and / or interaction? How might the interaction itself contribute to the expressiveness? For example, what are the possibilities if your sketch is responsive to [body](https://learn.ml5js.org/#/reference/posenet) / [face](https://learn.ml5js.org/#/reference/facemesh) / [hand](https://learn.ml5js.org/#/reference/handpose) movement?
+    - (OPTIONAL) If you feel comfortable with variables and coding in general, how can you make your self-portrait expressive through animation? How might some type of interaction contribute to its expressiveness? For example, what are the possibilities if your sketch is responsive to [body](https://learn.ml5js.org/#/reference/posenet) / [face](https://learn.ml5js.org/#/reference/facemesh) / [hand](https://learn.ml5js.org/#/reference/handpose) movement?
     - Write a blog post that includes a link to your sketch.
     - [Submit your post here](https://docs.google.com/document/d/10_j7x7dVWebLfOfaNahCtPa9XSX50FWNH5l0Tj9YC9s/edit?usp=sharing).
 - WATCH • [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditional statements and loops ~1hr 25min
