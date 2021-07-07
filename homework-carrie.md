@@ -1,6 +1,6 @@
 # Carrie's Section / Schedule & Homework
-Class Meetings: Mon & Wed 8:30pm - 10:30pm New York Time / All homework assignments are due at 10:00am New York Time on the day of our class.
-
+* Class Meetings: Mon & Wed 8:30pm - 10:30pm New York Time
+* All homework assignments are due at 10:00am New York Time on the day of our class.
 [Class Zoom Link](https://nyu.zoom.us/j/98085238642) / [Discourse](https://discourse.imany.io/) / [Residents' Office Hours](https://www.notion.so/imalowres/c22659dbfffd47ad8eaf20d4a1db0d43?v=c4229d5490f54b65bb159e804478d429) / [Carrie's Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
 
 * Week 00: [Drawing](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-00-drawing-in-p5js)
