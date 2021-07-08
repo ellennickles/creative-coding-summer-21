@@ -68,7 +68,7 @@ ___
 ### **// Class 1 • Mon July 12 • Introduction**
 
 **In class:**
-- Welcome! and introductions
+- Welcome!
 - Communicating in Zoom
 - Why creative coding?
 - What is p5?
