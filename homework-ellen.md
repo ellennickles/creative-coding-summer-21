@@ -125,7 +125,7 @@ ___
     - With Boolean variables
 
 **Homework assignment due Wed July 21:**
-- TEST YOURSELF • Complete questions 1-3 in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
+- TEST YOURSELF • Complete questions TBA in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 
 
 ### **// Class 2 • Wed July 21 • Iterative Statements (Loops)**
@@ -136,7 +136,7 @@ ___
 - More with conditional statements
 
 **Homework assignment due Mon July 26:**
-- TEST YOURSELF • Complete questions 4-8 in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
+- TEST YOURSELF • Complete questions TBA in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 - CREATE • Make a sketch with a lot of repetition, more than you want to hand-code. Can you make your sketch responsive to mouse behavior or key presses? Some ideas to get started:
     - You might take a previous sketch with a lot of repetition, and re-write it with a loop. For example, instead of needing 30 lines of code to call `rect()`, call `rect()` once inside of a loop that goes around 30 times. Look for a pattern. How do you need to rework the way you position that `rect()` inside the loop?
     - Try creating an algorithmic design with simple parameters. One example is to invent your own [10PRINT](https://10print.org/) design. See [Coding Train Coding Challenge: 10PRINT](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&vl=en) and the [example code](https://gist.github.com/shiffman/e683b93f5600dbb7495f). A related source of inspiration: [Sol Lewitt's Wall Drawings](https://massmoca.org/sol-lewitt/).
@@ -166,7 +166,7 @@ ___
 - Check-in survey
 
 **Homework assignment due Wed July 28:**
-- TEST YOURSELF - Complete questions 1-4 in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
+- TEST YOURSELF - Complete questions TBA in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 
 
 ### **// Class 2 • Wed July 28 • More with Arrays and Object Literals**
@@ -179,7 +179,7 @@ ___
 - Use a loop to iterate through objects in an array
 
 **Homework assignment due Mon Aug 2:**
-- TEST YOURSELF • Complete questions 5-6 in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
+- TEST YOURSELF • Complete questions TBA in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 - CREATE • The idea this week is to explore reorganizing / refactoring your code. It is 100% legitimate to turn in a version of a previous assignment where nothing changes for the end user, but the code has been restructured. However, you can also try a new experiment from scratch! For either option, aim to keep `setup()` and `draw()` as clean as possible, and do everything (all calculations, drawing, etc.) in functions that you create yourself. Possibilities (choose two or more):
     - Break the code out of `setup()` and `draw()` into functions.
     - Use a function to draw a design multiple times with different arguments.
@@ -209,7 +209,7 @@ ___
 - Interacting with individual objects
 
 **Homework assignment due Wed Aug 4:**
-- TEST YOURSELF • Complete questions 1-3 in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
+- TEST YOURSELF • Complete questions TBA in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
 - WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
 
 ### **// Class 2 • Wed Aug 4 • p5 Media Objects: Microphone Input and Sound Files**
