@@ -96,12 +96,12 @@ ___
 **Homework assignment due Mon July 19:**
 - TEST YOURSELF • Complete questions 3-6 in [Worksheet 1](https://docs.google.com/document/d/1x3DCZA0-i6TPl9On5APDRa1FetS5aswDNQwsvJlnlYU/edit?usp=sharing)
 - WATCH (OPTIONAL) • [Coding Train Videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [9.22](https://www.youtube.com/watch?v=76fiD5DvzeQ) about more p5 drawing functions ~1hr 
-- CREATE • Make a sketch that includes all of these: 
+- CREATE • How can we start to make our sketches expressive in different ways? Experiment with a sketch that includes all of these: 
     - One element controlled by the mouse.
     - One element that changes over time, independently of the mouse.
     - One element that is different every time you run the sketch.
     - For example, you could try refactoring your Pre-Work Assignment (self-portrait) sketch by removing all the hard-coded numbers except for `createCanvas()`. Have some of the elements follow the mouse. Have some move independently. Have some move at random. Or you could do the above but change color, alpha, and/or strokeWeight instead of position. Or do something completely different!
-    - (OPTIONAL) If you feel comfortable with variables and coding in general, how can you make your self-portrait even more expressive through animation? Or how might some type of interaction contribute to its expressiveness? For example, what are the possibilities if your sketch is responsive to [body](https://learn.ml5js.org/#/reference/posenet) / [face](https://learn.ml5js.org/#/reference/facemesh) / [hand](https://learn.ml5js.org/#/reference/handpose) movement?
+    - (OPTIONAL) If you feel comfortable with variables and coding in general, consider how other types of user input might open up additional avenues to suggest meaning. For example, what are the possibilities if your sketch is responsive to sound or [body](https://learn.ml5js.org/#/reference/posenet) / [face](https://learn.ml5js.org/#/reference/facemesh) / [hand](https://learn.ml5js.org/#/reference/handpose) movement?
     - Write a blog post that includes a link to your sketch.
     - [Submit your post here](https://docs.google.com/document/d/10_j7x7dVWebLfOfaNahCtPa9XSX50FWNH5l0Tj9YC9s/edit?usp=sharing).
 - WATCH • [Coding Train Videos 3.1-4.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about conditional statements and loops ~1hr 25min
