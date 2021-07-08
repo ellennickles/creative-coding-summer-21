@@ -70,7 +70,7 @@ ___
 **In class:**
 - Welcome! and introductions
 - Communicating in Zoom
-- Creative coding examples
+- Why creative coding?
 - What is p5?
 - p5 functions
 - Share our pre-work assignments
