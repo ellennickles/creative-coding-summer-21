@@ -125,7 +125,7 @@ ___
     - With Boolean variables
 
 **Homework assignment due Wed July 21:**
-- TEST YOURSELF • Complete questions TBA in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
+- TEST YOURSELF • Complete questions 1-2 in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 
 
 ### **// Class 2 • Wed July 21 • Iterative Statements (Loops)**
