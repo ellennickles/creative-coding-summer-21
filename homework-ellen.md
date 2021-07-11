@@ -131,9 +131,9 @@ ___
 ### **// Class 2 • Wed July 21 • Iterative Statements (Loops)**
 
 **In class:**
-- Creative coding example
-- Introduction to loops
 - More with conditional statements
+- Introduction to loops
+- Creative coding examples
 
 **Homework assignment due Mon July 26:**
 - TEST YOURSELF • Complete questions TBA in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
