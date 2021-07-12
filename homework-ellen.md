@@ -79,6 +79,7 @@ ___
 
 **Examples:** 
 - HTML, CSS, JavaScript / p5.js [Website Demos](https://ellennickles.github.io/demos/) | [Code](https://github.com/ellennickles/demos)
+- Bézier Curves [Demo](https://programmingdesignsystems.com/shape/custom-shapes/index.html#custom-shapes-pANLh0l)
 
 **Homework assignment due Wed July 14:**
 - TEST YOURSELF • Complete questions 1-2 in [Worksheet 1](https://docs.google.com/document/d/1x3DCZA0-i6TPl9On5APDRa1FetS5aswDNQwsvJlnlYU/edit)
