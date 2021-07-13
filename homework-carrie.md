@@ -53,8 +53,8 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### In class:
 * More about p5 basics & drawing with 2D shapes.
-* **Group Work:** How do we animate our p5 self portraits?
 * What are variables and why do we need them?
+* **Group Work:** Animate something!
 * **Demo:** creating a drawing program.
 * Summary & homework assignment.
 
