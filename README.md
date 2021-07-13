@@ -18,7 +18,7 @@ NYU IMA Low Res | Summer 2021
 If no office hours appointments are available, please send your instructor an email with three good times for you, and they will send you a calendar invite with a Zoom link.
 
 ## Support
-**Course Residents:** Rashida Kamal and Yuguang Zhang   
+**Course Residents:** Rashida Kamal, Yuguang Zhang, and Enrique García Alcalá   
 **Contact and Office Hours:** [Email and calendar sign up](https://www.notion.so/imalowres/c22659dbfffd47ad8eaf20d4a1db0d43?v=c4229d5490f54b65bb159e804478d429)
 
 **Course Discourse Tag:** [creativecoding](https://discourse.imany.io/)
