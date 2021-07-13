@@ -96,7 +96,9 @@ ___
 
 **Homework assignment due Mon July 19:**
 - TEST YOURSELF • Complete questions 3-6 in [Worksheet 1](https://docs.google.com/document/d/1x3DCZA0-i6TPl9On5APDRa1FetS5aswDNQwsvJlnlYU/edit?usp=sharing)
-- WATCH (OPTIONAL) • [Coding Train Videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [9.22](https://www.youtube.com/watch?v=76fiD5DvzeQ) about more p5 drawing functions ~1hr 
+- WATCH (OPTIONAL)
+    - [Coding Train Videos 16.1-16.2](https://www.youtube.com/watch?v=q8SHaDQdul0) about keywords let, var, and const ~20 min
+    - [Coding Train Videos 9.1-9.3](https://www.youtube.com/watch?v=o9sgjuh-CBM) and [9.22](https://www.youtube.com/watch?v=76fiD5DvzeQ) about more p5 drawing functions ~1hr 
 - CREATE • How can we start to make our sketches expressive in different ways? Experiment with a sketch that includes all of these: 
     - One element controlled by the mouse.
     - One element that changes over time, independently of the mouse.
