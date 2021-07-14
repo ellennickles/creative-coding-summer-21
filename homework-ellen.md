@@ -95,6 +95,13 @@ ___
 - Introduction to object literals
 - p5 system variables
 
+**Examples:**
+- [Scope: global and local variables](https://editor.p5js.org/enickles/sketches/So_3kcP69)
+- [Object literal](https://editor.p5js.org/enickles/sketches/C3OhfSdfW)
+- [Moving circles with direction and speed variables](https://editor.p5js.org/enickles/sketches/jjqUJ2pjf)
+- [Responsive rect](https://editor.p5js.org/enickles/sketches/7lbJuJ0Yc)
+- [Ellen's portrait animated](https://editor.p5js.org/enickles/sketches/ZkpJWuMRx)
+
 **Homework assignment due Mon July 19:**
 - TEST YOURSELF • Complete questions 3-6 in [Worksheet 1](https://docs.google.com/document/d/1x3DCZA0-i6TPl9On5APDRa1FetS5aswDNQwsvJlnlYU/edit?usp=sharing)
 - WATCH (OPTIONAL)
