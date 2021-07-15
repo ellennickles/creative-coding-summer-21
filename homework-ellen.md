@@ -237,9 +237,6 @@ ___
 - REVIEW • Play with these sketches using images, videos, and webcam capture before Monday's class. What p5 media object properties and functions are similar / different from those we explored in class today?
     - [TBA]()
 - FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class.
-    - Write a blog post that includes a link to your sketch in progress. It's okay it if doesn't work exactly as you intend at this point.
-    - Include your questions in the event that I can direct you to additional resources.
-    - [Submit your post here](https://docs.google.com/document/d/10hY3CriBpxX5HsrWiDtbilt25jCb8liABVnyTNdHxYM/edit).
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
@@ -269,13 +266,15 @@ ___
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11:**
-- Finish your final project. 
-- Update your blog post from Monday or start a new one to document it. 
-- [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
-- Prepare a 3-min presentation to share with the class. 
+- FINAL PROJECT 
+    - Finish your final project. 
+    - Write a blog post that includes a link to your sketch.
+    - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
+- SHARING
+    - Prepare a 3-min presentation to share with the class. 
     - Introduce your project. What was your goal or inspiration?
     - Demo it. If it's interactive, deconstruct the interaction for us to show the effect or behavior it produces.
-    - Explain what you did in your code to produce the effect. Practice the new vocabulary you’ve acquired for talking about technical work.
+    - Explain what you did in your code to produce the effect. Practice any new vocabulary you’ve acquired for talking about technical work.
     - As much as possible, write out what you plan to say. (_HINT: write everything in your blog post._)
     - Add your sketch to this [document](https://docs.google.com/spreadsheets/d/17zDmu_YpR5I5Wl_yOWVcTx4mrq-v9s3u3VciBzK1iks/edit#gid=834404435) so that we can easily share our sketches in class and collect feedback from one another.
 
