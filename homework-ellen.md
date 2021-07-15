@@ -16,7 +16,7 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 - [Our class Miro board](https://miro.com/app/board/o9J_l_AWMRQ=/)
 - [Zoom Recordings](https://docs.google.com/document/d/18X3qcdSKYxIiFOTwoZdsQciARQstm-skmTYYwRmj1zA/edit)
 - [Syllabus](https://github.com/ellennickles/creative-coding-summer-21) with my contact information, office hours sign-up, and additional course support resources
-- [IMA Low Res Notion Summer 2021](https://www.notion.so/imalowres/Summer-2021-5627bcd302bd49d1a6eca024d36ce847) with links to all program resources, including the Creative Coding Google Drive folder.
+- [IMA Low Res Notion Summer 2021](https://www.notion.so/imalowres/Summer-2021-5627bcd302bd49d1a6eca024d36ce847) with links to all program resources, including the Creative Coding Google Drive folder
 
 ---
 
