@@ -237,7 +237,7 @@ ___
 **Homework assignment due Mon Aug 9:**
 - REVIEW • Play with these sketches using images, videos, and webcam capture before Monday's class. What p5 media object properties and functions are similar / different from those we explored in class today?
     - [TBA]()
-- FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class.
+- FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class. Be prepared to share your progress on Monday.
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
@@ -264,6 +264,7 @@ ___
     - Video files
     - Webcam capture
 - Creative coding examples
+- Share final project ideas and progress.
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11:**
