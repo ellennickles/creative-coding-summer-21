@@ -75,6 +75,7 @@ ___
 - What is p5?
 - p5 functions
 - Share our pre-work assignments
+- Creative coding examples
 - Course overview
 - Tips for learning to code
 
@@ -134,9 +135,10 @@ ___
 - Introduction to conditional statements
     - With relational expressions
     - With Boolean variables
+- Combining expressions
 
 **Homework assignment due Wed July 21:**
-- TEST YOURSELF • Complete questions 1-2 in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
+- TEST YOURSELF • Complete the questions in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 
 
 ### **// Class 2 • Wed July 21 • Iterative Statements (Loops)**
@@ -147,7 +149,7 @@ ___
 - Creative coding examples
 
 **Homework assignment due Mon July 26:**
-- TEST YOURSELF • Complete questions TBA in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
+- TEST YOURSELF • Complete the new questions in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 - CREATE • Make a sketch with a lot of repetition, more than you want to hand-code. Can you make your sketch responsive to mouse behavior or key presses? Some ideas to get started:
     - You might take a previous sketch with a lot of repetition, and re-write it with a loop. For example, instead of needing 30 lines of code to call `rect()`, call `rect()` once inside of a loop that goes around 30 times. Look for a pattern. How do you need to rework the way you position that `rect()` inside the loop?
     - Try creating an algorithmic design with simple parameters. One example is to invent your own [10PRINT](https://10print.org/) design. See [Coding Train Coding Challenge: 10PRINT](https://www.youtube.com/watch?v=bEyTZ5ZZxZs&vl=en) and the [example code](https://gist.github.com/shiffman/e683b93f5600dbb7495f). A related source of inspiration: [Sol Lewitt's Wall Drawings](https://massmoca.org/sol-lewitt/).
@@ -177,17 +179,16 @@ ___
 - Check-in survey
 
 **Homework assignment due Wed July 28:**
-- TEST YOURSELF - Complete questions TBA in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
+- TEST YOURSELF - Complete the questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 
 
 ### **// Class 2 • Wed July 28 • More with Arrays and Object Literals**
 
 **In class:**
-- Creative coding example
-- Space for review
 - More with arrays: index positions
 - More practice with object literals
 - Use a loop to iterate through objects in an array
+- Creative coding examples
 
 **Homework assignment due Mon Aug 2:**
 - TEST YOURSELF • Complete questions TBA in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
@@ -226,11 +227,11 @@ ___
 ### **// Class 2 • Wed Aug 4 • p5 Media Objects: Microphone Input and Sound Files**
 
 **In class:**
-- Creative coding example
 - Review classes and objects
 - p5 media objects
     - Microphone input
     - Sound files
+- Creative coding examples
 - Expectations for final projects
 
 **Homework assignment due Mon Aug 9:**
@@ -258,11 +259,11 @@ ___
 ### **// Class 1 • Mon Aug 9 • p5 Media Objects: Images, Video, and Webcam Capture**
 
 **In class:**
-- Creative coding example
 - p5 media objects
     - Images
     - Video files
     - Webcam capture
+- Creative coding examples
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11:**
