@@ -269,11 +269,14 @@ ___
 - FINAL PROJECT 
     - Finish your final project. 
     - Write a blog post that includes a link to your sketch.
+        - What was your goal or inspiration?
+        - What does your sketch do? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
+        - Explain what you did in your code to produce the results. Practice the new vocabulary you’ve acquired for talking about technical work.
     - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
-- SHARING
+- PRESENTATION
     - Prepare a 3-min presentation to share with the class. 
-    - Introduce your project. What was your goal or inspiration?
-    - Demo it. If it's interactive, deconstruct the interaction for us to show the effect or behavior it produces.
+    - Introduce your project. 
+    - If it's interactive, pick one interaction to demo. Deconstruct the interaction to produce the effect or behavior.
     - Explain what you did in your code to produce the effect. Practice any new vocabulary you’ve acquired for talking about technical work.
     - As much as possible, write out what you plan to say. (_HINT: write everything in your blog post._)
     - Add your sketch to this [document](https://docs.google.com/spreadsheets/d/17zDmu_YpR5I5Wl_yOWVcTx4mrq-v9s3u3VciBzK1iks/edit#gid=834404435) so that we can easily share our sketches in class and collect feedback from one another.
