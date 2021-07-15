@@ -124,7 +124,7 @@ ___
 ___
 
 **Key questions:**
-- How can we interact with our p5 sketches? 
+- How can we interact with our p5 sketches even more? 
 - How can we use loops to make our programs do all the work?
 
 
