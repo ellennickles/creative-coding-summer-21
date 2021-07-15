@@ -191,7 +191,7 @@ ___
 - Creative coding examples
 
 **Homework assignment due Mon Aug 2:**
-- TEST YOURSELF • Complete questions TBA in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
+- TEST YOURSELF • Complete the new questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 - CREATE • The idea this week is to explore reorganizing / refactoring your code. It is 100% legitimate to turn in a version of a previous assignment where nothing changes for the end user, but the code has been restructured. However, you can also try a new experiment from scratch! For either option, aim to keep `setup()` and `draw()` as clean as possible, and do everything (all calculations, drawing, etc.) in functions that you create yourself. Possibilities (choose two or more):
     - Break the code out of `setup()` and `draw()` into functions.
     - Use a function to draw a design multiple times with different arguments.
@@ -221,7 +221,7 @@ ___
 - Interacting with individual objects
 
 **Homework assignment due Wed Aug 4:**
-- TEST YOURSELF • Complete questions TBA in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
+- TEST YOURSELF • Complete the questions in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
 - WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
 
 ### **// Class 2 • Wed Aug 4 • p5 Media Objects: Microphone Input and Sound Files**
