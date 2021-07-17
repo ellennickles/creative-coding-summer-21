@@ -245,6 +245,7 @@ ___
      - [Coding Train Videos 17.9-17.11](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on sound visualization ~35 min
     - [Coding Train Video 7.8](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=36&t=821s) on adding images to objects ~17 min
     - [Coding Train Video 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=3) on capturing your webcam ~10 min
+    - [Coding Train Videos 11.2-11.5 and 11.8](https://github.com/ITPNYU/ICM-2020-Media/blob/master/weeks/01_pixels.md) on pixel mirrors and photobooths ~1 hr 10 min
 
 ___
 
