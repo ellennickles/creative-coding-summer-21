@@ -80,7 +80,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### In class:
 * Present your animation sketches.
-* Remaining questions about variables.
+* More about animation.
 * Introduction to conditional statements.
 * **Demo:** using the bouncing ball logic to bounce something else.
 * **Group Work:** boolean variable challenge
