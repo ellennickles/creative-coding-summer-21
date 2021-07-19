@@ -137,6 +137,12 @@ ___
     - With Boolean variables
 - Combining expressions
 
+**Examples:**
+- [Introduction to conditionals](https://editor.p5js.org/enickles/sketches/8PRoU3ZUs)
+- [Boolean variables with if statements](https://editor.p5js.org/enickles/sketches/cJKjU1pnB)
+- [Toggle the switch](https://editor.p5js.org/enickles/sketches/o9a19uw8e)
+- [Moving circle objects that reset](https://editor.p5js.org/enickles/sketches/Y0rx6tXiZ)
+
 **Homework assignment due Wed July 21:**
 - TEST YOURSELF • Complete the questions in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 
