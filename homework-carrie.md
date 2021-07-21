@@ -94,11 +94,11 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 [Slides](https://docs.google.com/presentation/d/1-GGA5kOeXLDiXvv5bMdBdcL8Ia1gZdwhFK6IZ1RJe40/edit?usp=sharing)
 
 #### In class:
-* Checking in: how's everyone doing so far?
+* Checking in: how do you feel about what we've learned so far?
 * **Demo:** introducing for loops.
-* **Group Work:** using for loops for a variety of things.
+* **Group Work:** recreate the images using for loops.
 * **Demo:** introducing nested for loops.
-* **Group Work:** animate the grid challenge.
+* **Demo:** animate the grid.
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
