@@ -154,6 +154,12 @@ ___
 - Introduction to loops
 - Creative coding examples
 
+**Examples:**
+- [Bouncing ball object](https://editor.p5js.org/enickles/sketches/KppZ8fhrc)
+- [Bouncing clouds using images](https://editor.p5js.org/enickles/sketches/zOYX5PQnJ)
+- [Anatomy of a for loop](https://editor.p5js.org/enickles/sketches/N8yUY2XxM)
+- [Drawing columns with a for loop - two ways!](https://editor.p5js.org/enickles/sketches/CvKD3PK1X)
+
 **Homework assignment due Mon July 26:**
 - TEST YOURSELF • Complete the new questions in [Worksheet 2](https://docs.google.com/document/d/1T3KRtx1Nu44asoi8Rek-3IsknmS7FWszkN3yUE2nrC4/edit?usp=sharing)
 - CREATE • What repeats in your life or is cyclical? What patterns do you find in nature, architecture, textiles, conversations? Make a sketch with a lot of repetition, more than you want to hand-code. Can you make your sketch responsive to mouse behavior or key presses? Some ideas to get started:
