@@ -118,26 +118,26 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Use object literal to organize code.
 * Learn to write our own functions.
 
-### // Class 01 // July 26 // Homework Sharing and Object Literal
+### // Class 01 // July 26 // Homework Sharing and Functions
 [Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
 
 #### In class:
 * Share your homework sketches.
-* Remaining questions about loops.
-* Introduction to object literal.
-* **Group Work:** practice using object literal.
+* Writing our own functions.
+* **Group Work:** use functions and loops to create patterns.
 * Summary, preview, and homework assignment.
 
 #### Homework Assignment:
-* FILL OUT THE SURVEY // Please take five minutes to fill out this [midterm check-in survey](https://forms.gle/QMhX29KT5K9bEpQJ6).
-* WATCH // Start watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays. It is due next week. There is a lot of content to take in, so start early!
 * Add one piece of art or design work that inspires you to [this page](https://github.com/ellennickles/creative-coding-summer-21/wiki)! 
   * Be prepared to share something about it in class. 
   * Tell us what the project is about. Why do you like it? What role does technology play in this project? 
   * Do you imagine creating something inspired by this in the near future? 
   * **Note: the work you share should be different from what you have posted in the Concepts, Culture & Critique class.**
+* WATCH // [Coding Train Videos 7.1-7.2](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about arrays before the Wednesday class.
+* FILL OUT THE SURVEY // Please take five minutes to fill out this [midterm check-in survey](https://forms.gle/QMhX29KT5K9bEpQJ6).
 
-### // Class 02 // July 28 // Functions
+
+### // Class 02 // July 28 // Object Literal & Arrays
 [Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
 
 #### In class:
@@ -150,7 +150,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 3](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit?usp=sharing).
-* WATCH // Finish watching [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays.
+* WATCH // [Coding Train Videos 6.1-6.4, 7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects.
 * CREATE // Make a sketch that includes some of the following elements: 
   * Reusable functions that take at least one parameter.
   * Object literals.
