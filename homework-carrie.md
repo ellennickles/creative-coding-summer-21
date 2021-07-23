@@ -9,8 +9,8 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
 * Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
 * Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
-* Week 04: [More Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition)
-* Week 05: [Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-media-and-final-project)
+* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition)
+* Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-media-and-final-project)
 
 ————————————————————————————
 ## Week 00: Drawing in p5.js
@@ -143,10 +143,10 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### In class:
 * Share inspirations.
-* Writing our own functions.
-* **Group Work:** use functions and loops to create patterns.
-* Callback function and a little bit of DOM.
-* Preview: objects and arrays.
+* Using object literal to organize variables.
+* Introducing arrays.
+* **Group Work:** makw a random selector.
+* An update to the drawing program.
 * Summary and homework assignment.
 
 #### Homework Assignment:
@@ -159,7 +159,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
   * **Submit your sketches [here](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
-## Week 04: More Repetition
+## Week 04: More Repetition + Media
 ————————————————————————————
 
 **Key ideas:**
