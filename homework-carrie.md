@@ -181,7 +181,6 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * FINAL PROJECT // Think about what you want to make for your final project. Improve upon one of your previous sketches or create something new.
   * Decide what you want to do for your final.
   * Add ONE slide to [this slidedeck](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing).
-  * On Wednesday, spend about two minutes to share your idea and get some feedback.
 
 * WATCH (Optional) // 
   * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
