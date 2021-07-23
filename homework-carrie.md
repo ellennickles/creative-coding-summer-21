@@ -9,7 +9,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
 * Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
 * Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
-* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#Week 04: More Repetition + Media)
+* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04)
 * Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-final-project)
 
 ————————————————————————————
