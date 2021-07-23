@@ -201,7 +201,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
-* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new.
+* FINAL PROJECT // Work on final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions!
 
 ————————————————————————————
 ## Week 05: Final Project
@@ -213,10 +213,11 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 ### // Class 01 // August 9 // Working with a Desktop Editor + Final Project Progress
 
 #### In class:
-* TBD
+* Working with a desktop editor.
+* Final project progress check-in.
 
 #### Homework Assignment:
-* FINAL PROJECT // Finish your final project. Get ready to present your project (3 minutes if you’re going solo, 5 minutes if you’re in a team):
+* FINAL PROJECT // Finish your final project. Get ready to present your project (FOUR minutes max, SEVEN minutes total including feedback):
   * **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1pTG8_CRvE6BxlDi0YswiSpOipH8sl0Yggq4yRWqyuGY/edit?usp=sharing).**
   * When you present, show us your final result, and walk us through your code. It is important that you explain what you have done in your code to achieve your result.
   * If you have any inspirations, show your inspirations.
