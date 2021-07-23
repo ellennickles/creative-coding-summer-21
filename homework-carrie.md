@@ -145,7 +145,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Share inspirations.
 * Using object literal to organize variables.
 * Introducing arrays.
-* **Group Work:** makw a random selector.
+* **Group Work:** make a random selector.
 * An update to the drawing program.
 * Summary and homework assignment.
 
