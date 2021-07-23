@@ -175,7 +175,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Introduction to objects.
 * **Demo:** creating and using objects.
 * **Group Work:** create your own object class and make an array of them.
-* Assigning final project.
+* Assign final project.
 
 #### Homework Assignment:
 * FINAL PROJECT // Think about what you want to make for your final project. Improve upon one of your previous sketches or create something new.
