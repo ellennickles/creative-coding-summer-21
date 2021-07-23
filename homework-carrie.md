@@ -170,65 +170,51 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 [Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
-* Checking in: looking back at what we have learned, any questions or comments about anything?
 * Share your homework sketches from last week.
-* Introduction to arrays.
-* **Group Work:** random selector challenge.
-* **Demo:** an update to the drawing program—using an array!
-* Summary, and homework assignment.
-
-#### Homework Assignment:
-* FINAL PROJECT // Start thinking about your final project! What do you want to make? You can make one of your previous sketches better, or make a new one. You're encouraged to incorporate some of the new things we are covering this or next week—objects, arrays, video, sound.
-* WATCH (Optional) // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
-
-### // Class 02 // August 4 // Image, Media, & Sound
-[Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
-
-#### In class:
-* Remaining questions about arrays.
+* More about arrays.
 * Introduction to objects.
 * **Demo:** creating and using objects.
 * **Group Work:** create your own object class and make an array of them.
-* Final projects: expectations.
-* Quick preview: video and sound.
-* Summary, and homework assignment.
+* Assigning final project.
 
 #### Homework Assignment:
-* TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
-
-* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new.
+* FINAL PROJECT // Think about what you want to make for your final project. Improve upon one of your previous sketches or create something new.
   * Decide what you want to do for your final.
-  * Make some progress on your project.
   * Add ONE slide to [this slidedeck](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing).
-  * On Monday, you will have about three minutes total to share your progress and get some feedback.
+  * On Wednesday, spend about two minutes to share your idea and get some feedback.
 
 * WATCH (Optional) // 
   * Bring in your webcam: [Coding Train Videos 11.1](https://www.youtube.com/watch?v=bkGf4fEHKak&list=PLRqwX-V7Uu6aKKsDHZdDvN6oCJ2hRY_Ig&index=1)
   * Working with sound files: [Coding Train Videos 17.1-17.4](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
   * Microphone input: [Coding Train Videos 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=9)
 
-* CREATE (Optional) // Make a sketch using objects and arrays.
-  * **Submit your sketches [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).**
+### // Class 02 // August 4 // Image, Media, & Sound
+[Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
+
+#### In class:
+* Remaining questions about objects.
+* **Demo:** working with sound files.
+* **Demo:** visualizing mic input.
+* **Demo:** working with image and video files.
+* **Demo:** webcam input.
+* Share final project ideas.
+* Summary, and homework assignment.
+
+#### Homework Assignment:
+* TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
+* FINAL PROJECT // Start working on final projects. Improve upon one of your previous sketches or create something new.
 
 ————————————————————————————
 ## Week 05: Final Project
 ————————————————————————————
 
 **Key ideas:**
-* Using media—image, video, and sound—in your project.
-* Final project: improve upon one of your previous sketches or create something new!
+* Final project!
 
-### // Class 01 // August 9 // Image, Video, and Sound
-[Slides](https://docs.google.com/presentation/d/1K-4Uw_Tx6kOrN9tYLd5iFgr14JHECLlY0-OJclKDch8/edit?usp=sharing)
+### // Class 01 // August 9 // Working with a Desktop Editor + Final Project Progress
 
 #### In class:
-* Remaining questions about objects and arrays.
-* **Demo:** working with sound files.
-* **Demo:** visualizing mic input.
-* **Demo:** working with image and video files.
-* **Demo:** webcam input.
-* Share final project ideas and progress.
-* Summary, and homework assignment.
+* TBD
 
 #### Homework Assignment:
 * FINAL PROJECT // Finish your final project. Get ready to present your project (3 minutes if you’re going solo, 5 minutes if you’re in a team):
