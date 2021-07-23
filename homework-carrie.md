@@ -9,8 +9,8 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Week 01: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-01-introduction-and-animation)
 * Week 02: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-02-interaction-and-repetition)
 * Week 03: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-03-organization)
-* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition)
-* Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-media-and-final-project)
+* Week 04: [More Repetition + Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-04-more-repetition-+-media)
+* Week 05: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-carrie.md#week-05-final-project)
 
 ————————————————————————————
 ## Week 00: Drawing in p5.js
@@ -211,7 +211,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
   * **Submit your sketches [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
-## Week 05: Media, and Final Project
+## Week 05: Final Project
 ————————————————————————————
 
 **Key ideas:**
