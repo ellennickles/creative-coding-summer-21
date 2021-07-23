@@ -115,8 +115,9 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 ————————————————————————————
 
 **Key ideas:**
-* Use object literal to organize code.
 * Learn to write our own functions.
+* Use object literal to organize code.
+* What are arrays and what can we do with them?
 
 ### // Class 01 // July 26 // Homework Sharing and Functions
 [Slides](https://docs.google.com/presentation/d/16IJ2uHx0C4nU0_foVfB14XYWoejWTZRSH5iPr6BLw8k/edit?usp=sharing)
@@ -154,7 +155,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * CREATE // Make a sketch that includes some of the following elements: 
   * Reusable functions that take at least one parameter.
   * Object literals.
-  * DOM objects such as buttons and sliders.
+  * Arrays.
   * **Submit your sketches [here](https://docs.google.com/document/d/1RYH6xY3nR4JIws1bo0zW2OhorVoPxiqGBePpvvQFCcU/edit#heading=h.g0onhebbxvxs).**
 
 ————————————————————————————
@@ -163,9 +164,9 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 **Key ideas:**
 * Create our own objects and object behaviors using object class.
-* What are arrays and what can we do with them?
+* Working with media.
 
-### // Class 01 // August 2 // Homework Sharing and Arrays
+### // Class 01 // August 2 // Homework Sharing and Object Class
 [Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
@@ -180,7 +181,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * FINAL PROJECT // Start thinking about your final project! What do you want to make? You can make one of your previous sketches better, or make a new one. You're encouraged to incorporate some of the new things we are covering this or next week—objects, arrays, video, sound.
 * WATCH (Optional) // Rewatch [Coding Train Videos 6.1-7.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects and arrays if needed.
 
-### // Class 02 // August 4 // Objects
+### // Class 02 // August 4 // Image, Media, & Sound
 [Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
