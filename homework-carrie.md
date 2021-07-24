@@ -170,7 +170,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 [Slides](https://docs.google.com/presentation/d/1yOJ-17y3bhvzjW8HIV4Y8Y8kLXfswWvmIOm6cwlMtRM/edit?usp=sharing)
 
 #### In class:
-* Share your homework sketches from last week.
+* Talk about homework sketches from last week.
 * More about arrays.
 * Introduction to objects.
 * **Demo:** creating and using objects.
@@ -191,7 +191,6 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 [Slides](https://docs.google.com/presentation/d/1xeUYm3-naeuD1Jka9UDQKSRR3UWrnaOhhBxEHr3L6-A/edit?usp=sharing)
 
 #### In class:
-* Remaining questions about objects.
 * **Demo:** working with sound files.
 * **Demo:** visualizing mic input.
 * **Demo:** working with image and video files.
@@ -213,8 +212,11 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 ### // Class 01 // August 9 // Working with a Desktop Editor + Final Project Progress
 
 #### In class:
-* Working with a desktop editor.
-* Final project progress check-in.
+* Main Room:
+  * Review previous coding concepts.
+  * Working with a desktop editor.
+* Breakout Room:
+  * Work on your final projects with a resident being there to answer specific technical questions.
 
 #### Homework Assignment:
 * FINAL PROJECT // Finish your final project. Get ready to present your project (FOUR minutes max, SEVEN minutes total including feedback):
