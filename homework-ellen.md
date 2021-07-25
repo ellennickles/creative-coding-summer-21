@@ -7,8 +7,8 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 - Week 1: [Introduction and Animation](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-1-introduction-and-animation)
 - Week 2: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-2-interaction-and-repetition)
 - Week 3: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-3-organization)
-- Week 4: [More Repetition and Start Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-4-more-repetition-and-start-media)
-- Week 5: [More Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-more-media-and-final-project)
+- Week 4: [More Repetition and Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-4-more-repetition-and-start-media)
+- Week 5: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-more-media-and-final-project)
 
 ---
 
@@ -180,75 +180,73 @@ ___
 - What are arrays and how can we use them?
 - How can we write our own functions?
 
-### **// Class 1 • Mon July 26 • Start Arrays and Create Our Own Functions**
+### **// Class 1 • Mon July 26 • Arrays**
 
 **In class:**
 - Introduction to arrays
 - Share our homework assignments
-- Introduction to functions
-    - Writing functions
-    - Calling them with and without arguments
+- Use a loop to iterate through values in an array
 - Check-in survey
 
 **Homework assignment due Wed July 28:**
 - TEST YOURSELF - Complete the questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 
 
-### **// Class 2 • Wed July 28 • More with Arrays and Object Literals**
+### **// Class 2 • Wed July 28 • Functions**
 
 **In class:**
-- More with arrays: index positions
-- More practice with object literals
-- Use a loop to iterate through objects in an array
+- Introduction to functions
+    - Writing functions
+    - Calling them with and without arguments
 - Creative coding examples
 
 **Homework assignment due Mon Aug 2:**
 - TEST YOURSELF • Complete the new questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
-- CREATE • The idea this week is to explore reorganizing / refactoring your code. It is 100% legitimate to turn in a version of a previous assignment where nothing changes for the end user, but the code has been restructured. However, you can also try a new experiment from scratch! For either option, aim to keep `setup()` and `draw()` as clean as possible, and do everything (all calculations, drawing, etc.) in functions that you create yourself. Possibilities (choose two or more):
-    - Break the code out of `setup()` and `draw()` into functions.
-    - Use a function to draw a design multiple times with different arguments.
-    - Reorganize "groups of variables" into object literals.
-    - For anything that repeats, use a loop to make it happen.
+- CREATE • We can organize our code into discrete code blocks, functions, to reuse over and over, such as to create different expressions of similar elements (e.g. position, size, speed, color). The idea for next week is to practice writing and using your own functions. 
+    - It is 100% legitimate to turn in a version of a previous assignment where nothing changes for the end user, but the code has been restructured (refactored) into functions. 
+    - You can also try a new experiment from scratch! For example, can you draw a landscape of varying plants by calling the “plant function” with different arguments? Or create family of varying creatures? Or draw the same design multiple times but with different characteristics? 
+    - For either option, aim to keep setup() and draw() as clean as possible, and do everything (all calculations, drawing, etc.) in functions that you create yourself. Try to incorporate the following:
+        - Break the code out of `setup()` and `draw()` into functions.
+        - Call at least one of your functions multiple times with different arguments.
+        - For anything that repeats and you notice a pattern, use a loop to make it happen.
     - Write a blog post that includes a link to your sketch.
     - [Submit your post here](https://docs.google.com/document/d/1niO3xN_NNvP1Zlr4AvxxwncpCm2ZkmCsASIn3VGVwW4/edit).
-- WATCH • [Coding Train Videos 6.2-6.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) and [7.3-7.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing classes to create many objects, using arrays with those objects, and interacting with the objects using the mouse ~1 hr 15 min
+- WATCH • [Coding Train Videos 6.2-6.3](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) and [7.3-7.5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about writing classes to create many objects and interacting with those objects using the mouse ~1 hr 10 min
+- WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
 
 ___
 
-## Week 4: More Repetition and Start Media
+## Week 4: More Repetition and Media
 
 ___
 
 **Key questions:**
 - How can we create multiple objects using classes?
-- What are p5's media objects?
-- What are some ways to get started with audio using microphone input and sound files?
+- What are some ways to get started with audio (microphone input and sound files) and visual (images, video, and webcam) media?
 
 ### **// Class 1 • Mon Aug 2 • Classes: Templates for Multiple Objects**
 
 **In class:**
 - Share our homework assignments
-- Introduction to classes for making multiple objects
+- Introduction to classes to make objects
 - Using classes (and objects) with arrays and loops
-- Interacting with individual objects
 
 **Homework assignment due Wed Aug 4:**
 - TEST YOURSELF • Complete the questions in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
-- WATCH (OPTIONAL) • [Coding Train Videos 7.6-7.7](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) about objects communicating with each other ~30 min
 
-### **// Class 2 • Wed Aug 4 • p5 Media Objects: Microphone Input and Sound Files**
+### **// Class 2 • Wed Aug 4 • Media**
 
 **In class:**
 - Review classes and objects
-- p5 media objects
+- Media 
     - Microphone input
     - Sound files
+    - Image / Video files
+    - Webcam
 - Creative coding examples
 - Expectations for final projects
 
 **Homework assignment due Mon Aug 9:**
-- REVIEW • Play with these sketches using images, videos, and webcam capture before Monday's class. What p5 media object properties and functions are similar / different from those we explored in class today?
-    - [TBA]()
 - FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class. Be prepared to share your progress on Monday.
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
@@ -261,23 +259,18 @@ ___
 
 ___
 
-## Week 5: More Media and Final Project
+## Week 5: Final Project
 
 ___
 
-**Key questions:**
-- What are some ways to get started with images, video, and webcam capture?
+**Key question:**
 - How can we talk about our final projects using the programming concepts and vocabulary from this course?
 
-### **// Class 1 • Mon Aug 9 • p5 Media Objects: Images, Video, and Webcam Capture**
+### **// Class 1 • Mon Aug 9 • Final Project Progress**
 
-**In class:**
-- p5 media objects
-    - Images
-    - Video files
-    - Webcam capture
-- Creative coding examples
-- Share final project ideas and progress.
+**In class (tentative):**
+- Final project check-ins
+- Review / working session
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11:**
@@ -291,8 +284,8 @@ ___
 - PRESENTATION
     - Prepare a 3-min presentation to share with the class. 
     - Introduce your project. 
-    - If it's interactive, pick one interaction to demo. Deconstruct the interaction to produce the effect or behavior.
-    - Explain what you did in your code to produce the effect. Practice any new vocabulary you’ve acquired for talking about technical work.
+    - If it's interactive, **pick one interaction to demo**. Deconstruct the interaction to produce the effect or behavior.
+    - Explain what you did in your code to produce the effect. Practice the new vocabulary you’ve acquired for talking about technical work.
     - As much as possible, write out what you plan to say. (_HINT: write everything in your blog post._)
     - Add your sketch to this [document](https://docs.google.com/spreadsheets/d/17zDmu_YpR5I5Wl_yOWVcTx4mrq-v9s3u3VciBzK1iks/edit#gid=834404435) so that we can easily share our sketches in class and collect feedback from one another.
 
