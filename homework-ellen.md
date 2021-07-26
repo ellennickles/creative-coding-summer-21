@@ -268,7 +268,7 @@ ___
 
 ### **// Class 1 • Mon Aug 9 • Final Project Progress**
 
-**In class (tentative):**
+**In class:**
 - Final project check-ins
 - Review / working session
 - Expectations for final project presentations
