@@ -188,6 +188,11 @@ ___
 - Use a loop to iterate through values in an array
 - Check-in survey
 
+**Examples:**
+- [Random name generator (incomplete)](https://editor.p5js.org/enickles/sketches/9wbSvPcrQ)
+- [Iterating through array values](https://editor.p5js.org/enickles/sketches/ldkxNHtdx)
+- [The Great Balloon Race](https://editor.p5js.org/enickles/sketches/vTO-kkPdZ)
+
 **Homework assignment due Wed July 28:**
 - TEST YOURSELF - Complete the questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 
