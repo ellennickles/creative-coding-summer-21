@@ -204,7 +204,7 @@ ___
 - TEST YOURSELF • Complete the new questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 - CREATE • We can organize our code into discrete code blocks, functions, to reuse over and over, such as to create different expressions of similar elements (e.g. position, size, speed, color). The idea for next week is to practice writing and using your own functions. 
     - It is 100% legitimate to turn in a version of a previous assignment where nothing changes for the end user, but the code has been restructured (refactored) into functions. 
-    - You can also try a new experiment from scratch! For example, can you draw a landscape of varying plants by calling the “plant function” with different arguments? Or create family of varying creatures? Or draw the same design multiple times but with different characteristics? 
+    - You can also try a new experiment from scratch! For example, can you draw a landscape of varying plants by calling the “plant function” with different arguments? Or create a family of varying creatures? Or draw the same design multiple times but with different characteristics? 
     - For either option, aim to keep setup() and draw() as clean as possible, and do everything (all calculations, drawing, etc.) in functions that you create yourself. Try to incorporate the following:
         - Break the code out of `setup()` and `draw()` into functions.
         - Call at least one of your functions multiple times with different arguments.
