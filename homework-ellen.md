@@ -206,7 +206,7 @@ ___
 - Creative coding examples
 
 **Examples:**
-- [Generative Design Book](http://www.generative-gestaltung.de/)
+- [Generative Design book](http://www.generative-gestaltung.de/)
 - [Refactored portrait](https://editor.p5js.org/enickles/sketches/gnzdWw_4D)
 - [Ellen's Zoom background](https://editor.p5js.org/enickles/sketches/rEut1IfjU)
 
