@@ -221,7 +221,7 @@ ___
 - Explain the code out loud to someone… or to Vince's duck.
 - Print variables to the console to read the values instead of trying to imagine them in your head.
 - Ask! [How to ask code-related questions](https://github.com/ellennickles/creative-coding-summer-21/blob/main/example-code-questions.md)
-- If you're stuck, go outside / get a snack / do something else. 
+- If you're still stuck, go outside / get a snack / do something else. 
 
 **Homework assignment due Mon Aug 2:**
 - TEST YOURSELF • Complete the new questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
