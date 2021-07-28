@@ -142,11 +142,12 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 [Slides](https://docs.google.com/presentation/d/1-1e5eoW9J3g9zBT0XUBQ3BBboghPVkhXoojqn9G07LE/edit?usp=sharing)
 
 #### In class:
+* Talk about survey results.
 * Share inspirations.
-* Using object literal to organize variables.
+* Revisit object literals.
 * Introducing arrays.
-* **Group Work:** make a random selector.
-* An update to the drawing program.
+* **Demo:** make a random selector.
+* **Demo:** an update to the drawing program.
 * Summary and homework assignment.
 
 #### Homework Assignment:
