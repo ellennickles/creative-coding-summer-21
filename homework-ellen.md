@@ -205,6 +205,24 @@ ___
     - Calling them with and without arguments
 - Creative coding examples
 
+**Examples:**
+- [Generative Design Book](http://www.generative-gestaltung.de/)
+- [Refactored portrait](https://editor.p5js.org/enickles/sketches/gnzdWw_4D)
+- [Ellen's Zoom background](https://editor.p5js.org/enickles/sketches/rEut1IfjU)
+
+**Tips for learning / debugging code:**
+- Keep the code library reference open in a nearby tab
+- Only learn one thing at a time
+- Similar: if there’s a lot of code you don’t understand, focus on figuring out one small piece at a time (ignore the rest if you can).
+- Go as slow as you need to!
+- Sketch out your idea or write it out in plain language before translating it into code.
+- If you’re not sure what something does in the code, comment it out to see if you get a different result.
+- If you are not sure about the impact of a value, try making it a really small number or a really large number.
+- Explain the code out loud to someone… or to Vince's duck.
+- Print variables to the console to read the values instead of trying to imagine them in your head
+- Ask! [How to ask code-related questions](https://github.com/ellennickles/creative-coding-summer-21/blob/main/example-code-questions.md)
+- If you're stuck, go outside / get a snack / do something else 
+
 **Homework assignment due Mon Aug 2:**
 - TEST YOURSELF • Complete the new questions in [Worksheet 3](https://docs.google.com/document/d/1Ym-zlbP-xMsYH4q3kVW11Uq0JS8CRSh2KchWY18INiY/edit?usp=sharing)
 - CREATE • We can organize our code into discrete code blocks, functions, to reuse over and over, such as to create different expressions of similar elements (e.g. position, size, speed, color). The idea for next week is to practice writing and using your own functions. 
