@@ -261,7 +261,7 @@ ___
 
 **In class:**
 - Review classes and objects
-- Media 
+- Media demos
     - Microphone input
     - Sound files
     - Image / Video files
