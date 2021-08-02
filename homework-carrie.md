@@ -174,6 +174,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 * Talk about homework sketches from last week.
 * More about arrays.
 * Introduction to objects.
+* Imagine an object.
 * **Demo:** creating and using objects.
 * **Group Work:** create your own object class and make an array of them.
 * Assign final project.
