@@ -254,6 +254,13 @@ ___
 - Introduction to classes to make objects
 - Using classes (and objects) with arrays and loops
 
+**Examples:**
+- [Random Name Generator (updated)](https://editor.p5js.org/enickles/sketches/HZlU4xYQl)
+- [3 bouncing bar objects from a class](https://editor.p5js.org/enickles/sketches/lsJFs20uY)
+- [30 bouncing bar objects from a class](https://editor.p5js.org/enickles/sketches/U9rk36rzp)
+- [Add fading bars with a mouse press](https://editor.p5js.org/enickles/sketches/Pg368TLmv)
+- [Ripples in a pond](https://editor.p5js.org/enickles/sketches/z0SyWY_Oo)
+
 **Homework assignment due Wed Aug 4:**
 - TEST YOURSELF • Complete the questions in [Worksheet 4](https://docs.google.com/document/d/1PS_psx8Tdg8D725k_ySIscwe3MeREj20l3iDHSGsbwM/edit?usp=sharing)
 
