@@ -301,7 +301,7 @@ ___
 **In class:**
 - Options for timing events in p5
 - Final project check-ins
-- Breakout rooms with residents to answer technical questions
+- Breakout rooms with Ellen and the residents to answer technical questions
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
