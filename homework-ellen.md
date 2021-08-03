@@ -305,7 +305,7 @@ ___
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
-- Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Guidelines(https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details. 
+- Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Guidelines](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details. 
 - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
 
 ### **// Class 2 • Wed Aug 11 • Final Project Presentations 🙌**
