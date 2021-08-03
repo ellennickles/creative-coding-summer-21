@@ -277,7 +277,7 @@ ___
 - Expectations for final projects
 
 **Homework assignment due Mon Aug 9:**
-- FINAL PROJECT • Start working on your final project. You can take something you've already made and develop it further or create something new that builds on or is inspired by the concepts we covered this semester. You are welcome to combine your final project for this class with a final project from another class. Be prepared to share your progress on Monday.
+- FINAL PROJECT • Read the [Final Project Brief](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) and start working on your project. Be prepared to share your progress on Monday.
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
@@ -299,27 +299,14 @@ ___
 ### **// Class 1 • Mon Aug 9 • Final Project Progress**
 
 **In class:**
+- Options for timing events in p5
 - Final project check-ins
-- Review / working session
+- Breakout rooms with residents to answer technical questions
 - Expectations for final project presentations
 
-**Homework assignment due Wed Aug 11:**
-- FINAL PROJECT 
-    - Finish your final project. 
-    - Write a blog post that includes a link to your sketch.
-        - What was your goal or inspiration?
-        - What does your sketch do? If it's interactive, deconstruct the interaction(s) to produce the effect(s).
-        - Explain what you did in your code to produce the results. Practice the new vocabulary you’ve acquired for talking about technical work.
-    - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
-- PRESENTATION
-    - Prepare a 3-min presentation to share with the class. 
-    - Introduce your project. 
-    - If it's interactive, **pick one interaction to demo**. Deconstruct the interaction to produce the effect or behavior.
-    - Explain what you did in your code to produce the effect. Practice the new vocabulary you’ve acquired for talking about technical work.
-    - As much as possible, write out what you plan to say. (_HINT: write everything in your blog post._)
-    - Add your sketch to this [document](https://docs.google.com/spreadsheets/d/17zDmu_YpR5I5Wl_yOWVcTx4mrq-v9s3u3VciBzK1iks/edit#gid=834404435) so that we can easily share our sketches in class and collect feedback from one another.
-
-
+**Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
+- Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Brief](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details and guidelines. 
+- [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
 
 ### **// Class 2 • Wed Aug 11 • Final Project Presentations 🙌**
 
