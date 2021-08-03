@@ -277,7 +277,7 @@ ___
 - Expectations for final projects
 
 **Homework assignment due Mon Aug 9:**
-- FINAL PROJECT • Read the [Final Project Brief](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) and start working on your project. Be prepared to share your progress on Monday.
+- FINAL PROJECT • Read the [Final Project Guidelines](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) and start working on your project. Be prepared to share your progress on Monday.
 - WATCH (OPTIONAL) • Explore for your final project:  
     - [Coding Train Video 17.8](https://www.youtube.com/watch?v=q2IDNkUws-A&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW&index=8) on microphone input ~7 min
     - [Coding Train Videos 17.1-17.5](https://www.youtube.com/watch?v=Pn1g1wjxl_0&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW) on working with sound files ~1 hr
@@ -305,7 +305,7 @@ ___
 - Expectations for final project presentations
 
 **Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
-- Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Brief](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details and guidelines. 
+- Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Guidelines(https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details. 
 - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
 
 ### **// Class 2 • Wed Aug 11 • Final Project Presentations 🙌**
