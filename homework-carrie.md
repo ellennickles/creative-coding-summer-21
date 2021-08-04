@@ -211,12 +211,12 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 **Key ideas:**
 * Final project!
 
-### // Class 01 // August 9 // Working with a Desktop Editor + Final Project Progress
+### // Class 01 // August 9 // Review Key Concepts or Work on Final Project
 
 #### In class:
 * Main Room:
   * Review previous coding concepts.
-  * Working with a desktop editor.
+  * Introduce additional coding ideas.
 * Breakout Room:
   * Work on your final projects with a resident being there to answer specific technical questions.
 
