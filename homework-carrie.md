@@ -202,7 +202,9 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
-* FINAL PROJECT // Work on your final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions! Paste a link to your work in progress [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).
+* FINAL PROJECT // Work on your final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions! 
+  * DUE ON MONDAY: Paste a link to your work in progress [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).
+  * DUE NEXT WEDNESDAY: **Add your presentation slides (THREE slides max) to [this slide deck](https://docs.google.com/presentation/d/1pTG8_CRvE6BxlDi0YswiSpOipH8sl0Yggq4yRWqyuGY/edit?usp=sharing).**
 
 ————————————————————————————
 ## Week 05: Final Project
@@ -226,7 +228,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
   * When you present, show us your final result, and walk us through your code. It is important that you explain what you have done in your code to achieve your result.
   * If you have any inspirations, show your inspirations.
   * What was your goal? Did it work out as planned? 
-  * If you are to continue your project, what are some potentials?
+  * If you are to continue your project, what are some possibilities?
 
 ### // Class 02 // August 11 // Final Project Presentations
 [Slides](https://docs.google.com/presentation/d/1WUDViyic0Oen0d3hYw9GXibSP04Xrqa9hC--nyi36F0/edit?usp=sharing)
