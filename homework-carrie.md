@@ -202,7 +202,7 @@ All homework assignments are due at 10:00am New York Time on the day of our clas
 
 #### Homework Assignment:
 * TEST YOURSELF // Complete [Worksheet 4](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit?usp=sharing).
-* FINAL PROJECT // Work on final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions!
+* FINAL PROJECT // Work on your final project. Start early. Use the help sessions and open office hours this Friday to ask technical questions! Paste a link to your work in progress [here](https://docs.google.com/document/d/1T52tOGSM_YbD9--aineC7EK8Z7lYpuIVKwyk9Soh4QI/edit#heading=h.g0onhebbxvxs).
 
 ————————————————————————————
 ## Week 05: Final Project
