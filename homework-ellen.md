@@ -8,7 +8,7 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 - Week 2: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-2-interaction-and-repetition)
 - Week 3: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-3-organization)
 - Week 4: [More Repetition and Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-4-more-repetition-and-media)
-- Week 5: [Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-final-project)
+- Week 5: [More Media & Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-final-project)
 
 ---
 
@@ -245,7 +245,7 @@ ___
 
 **Key questions:**
 - How can we create multiple objects using classes?
-- What are some ways to get started with audio (microphone input and sound files) and visual (images, video, and webcam) media?
+- What are some ways to get started with audio (microphone input and sound files) media?
 
 ### **// Class 1 • Mon Aug 2 • Classes: Templates for Multiple Objects**
 
@@ -271,10 +271,15 @@ ___
 - Media demos
     - Microphone input
     - Sound files
-    - Image / Video files
-    - Webcam
-- Creative coding examples
+- [Creative coding examples](https://github.com/ellennickles/creative-coding-summer-21/wiki#sound)
 - Expectations for final projects
+
+**Class examples:**
+- [1 Balloon Object](https://editor.p5js.org/enickles/sketches/3ONkj9kWC)
+- [100 Balloon Objects](https://editor.p5js.org/enickles/sketches/1HOOdQDuL)
+- [Mic input](https://editor.p5js.org/enickles/sketches/k_TkxUtx_)
+- [Sound file basics](https://editor.p5js.org/enickles/sketches/aZdeKAca4)
+- [Load multiple sound files](https://editor.p5js.org/enickles/sketches/MEfmBS66J)
 
 **Homework assignment due Mon Aug 9:**
 - FINAL PROJECT • Read the [Final Project Guidelines](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) and start working on your project. Be prepared to share your progress on Monday.
@@ -289,20 +294,24 @@ ___
 
 ___
 
-## Week 5: Final Project
+## Week 5: More Media & Final Project
 
 ___
 
 **Key question:**
+- What are some ways to get started with visual (images, video, and webcam) media?
 - How can we talk about our final projects using the programming concepts and vocabulary from this course?
 
 ### **// Class 1 • Mon Aug 9 • Final Project Progress**
 
 **In class:**
-- Options for timing events in p5
-- Final project check-ins
-- Breakout rooms with Ellen and the residents to answer technical questions
-- Expectations for final project presentations
+- Start • Whole class: final project check-ins
+- Middle • Your choice:
+    - Main room: image / video / webcam demos (and if there's time, we'll talk about timing events in p5)
+    - Breakout rooms: work on your final project with residents available to answer technical questions
+    - You can move back and forth between the rooms as you like
+    - I'll announce to the breakout rooms when we switch topics in the Main room
+- End • Whole class: talk about presentations for Wednesday
 
 **Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
 - Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Guidelines](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details. 
