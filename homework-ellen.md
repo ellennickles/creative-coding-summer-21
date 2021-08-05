@@ -8,7 +8,7 @@ Creative Coding Section 1 • Meeting Mon & Wed 10:30am - 12:30pm ET
 - Week 2: [Interaction and Repetition](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-2-interaction-and-repetition)
 - Week 3: [Organization](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-3-organization)
 - Week 4: [More Repetition and Media](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-4-more-repetition-and-media)
-- Week 5: [More Media & Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-more-media--final-project)
+- Week 5: [More Media and Final Project](https://github.com/ellennickles/creative-coding-summer-21/blob/main/homework-ellen.md#week-5-more-media-and-final-project)
 
 ---
 
@@ -294,7 +294,7 @@ ___
 
 ___
 
-## Week 5: More Media & Final Project
+## Week 5: More Media and Final Project
 
 ___
 
