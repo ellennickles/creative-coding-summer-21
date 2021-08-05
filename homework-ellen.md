@@ -274,7 +274,7 @@ ___
 - [Creative coding examples](https://github.com/ellennickles/creative-coding-summer-21/wiki#sound)
 - Expectations for final projects
 
-**Class examples:**
+**Examples:**
 - [1 Balloon Object](https://editor.p5js.org/enickles/sketches/3ONkj9kWC)
 - [600 Balloon Objects](https://editor.p5js.org/enickles/sketches/1HOOdQDuL)
 - [Mic input](https://editor.p5js.org/enickles/sketches/k_TkxUtx_)
