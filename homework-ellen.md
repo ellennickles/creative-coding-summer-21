@@ -276,7 +276,7 @@ ___
 
 **Class examples:**
 - [1 Balloon Object](https://editor.p5js.org/enickles/sketches/3ONkj9kWC)
-- [100 Balloon Objects](https://editor.p5js.org/enickles/sketches/1HOOdQDuL)
+- [600 Balloon Objects](https://editor.p5js.org/enickles/sketches/1HOOdQDuL)
 - [Mic input](https://editor.p5js.org/enickles/sketches/k_TkxUtx_)
 - [Sound file basics](https://editor.p5js.org/enickles/sketches/aZdeKAca4)
 - [Load multiple sound files](https://editor.p5js.org/enickles/sketches/MEfmBS66J)
