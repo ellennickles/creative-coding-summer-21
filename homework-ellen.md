@@ -313,6 +313,15 @@ ___
     - I'll announce to the breakout rooms when we switch topics in the Main room
 - End • Whole class: talk about presentations for Wednesday
 
+**Examples:**
+- [Image file basics](https://editor.p5js.org/enickles/sketches/yjCvMe-gw)
+- [Painting with pixels](https://editor.p5js.org/enickles/sketches/aPzWQLZOw)
+- [Video file basics](https://editor.p5js.org/enickles/sketches/8QbYQk9GS)
+- [Ellen's Zoom background: video columns](https://editor.p5js.org/enickles/sketches/74OdSfMII)
+- [Webcam basics](https://editor.p5js.org/enickles/sketches/XXv9N9FBx)
+- [Carrie's Webcam Rainbow Grid](https://editor.p5js.org/enickles/sketches/Bmbu_PyxD)
+- [Ellen's Zoom background: ever-changing columns](https://editor.p5js.org/enickles/sketches/orfTlLTAl)
+
 **Homework assignment due Wed Aug 11 by the start of class at 10:30am ET:**
 - Complete your final project, document it in a blog post, and prepare to share the project in class on Wednesday. Review the [Final Project Guidelines](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit) for details. 
 - [Submit your post here](https://docs.google.com/document/d/16MPd5Zxobx2NfOqpSmtGl-c5DSoumFTFLYNhwbMvcjo/edit).
@@ -322,6 +331,24 @@ ___
 **In class:**
 - Welcome and general notes
 - Final project presentations
-- Complete course evaluation form
+- Complete [course evaluation form](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1216/7037/T_ITP/10)
 
+**Presentation Schedule:**
+1. Alexis
+2. Jack
+3. Hiren
+4. Cam
+5. Emma
+6. Noel
+7. Yuchen and Frost
+8. Erich
 
+Break
+
+9. Sammy
+10. Judy
+11. Shaun
+12. Vince and M
+13. Yusuf
+14. Sarah
+15. Beth
