@@ -333,7 +333,7 @@ ___
 - Final project presentations
 - Complete [course evaluation form](https://m.albert.nyu.edu/app/student/nyuCrseEval/crseEval/1216/7037/T_ITP/10)
 
-**Presentation Schedule:**
+**Presentation schedule:**
 1. Alexis
 2. Jack
 3. Hiren
