@@ -1,16 +1,16 @@
 # Creative Coding
-NYU IMA Low Res | Summer 2021
+NYU IMA Low Res • Summer 2021
 
 ## Course Sections
 
 ### Section 1
-**Time:** Mon & Wed 10:30am - 12:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
+**Time:** Mon & Wed 10:30am - 12:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-ellen.md)  
 **Instructor:** Ellen Nickles  
 **Contact:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu) or Discord @Ellen (she/her)  
 **Office Hours:** Tues 10:00am - 12:00pm ET [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)  
 
 ### Section 2
-**Time:** Mon & Wed 8:30pm - 10:30pm ET | [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
+**Time:** Mon & Wed 8:30pm - 10:30pm ET • [Schedule & Homework](https://github.com/ellennickles/creative-coding-summer-2021/blob/main/homework-carrie.md)  
 **Instructor:** Carrie Wang  
 **Contact:** [sw3923@nyu.edu](mailto:sw3923@nyu.edu) or Discord @Carrie Wang  
 **Office Hours:** Mon & Wed 6:30pm - 7:30pm [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UURGcGNKNkVCLUNlfGRlZmF1bHR8ZmFlMTM5OTEzZDAwMTJmNWU5ZDdkNzMwMjg2N2RiYzU)
