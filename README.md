@@ -1,5 +1,5 @@
 # Creative Coding
-NYU IMA Low Res • Summer 2021
+New York University (NYU) • Interactive Media Arts Global Low Residency (IMA Low Res) • Summer 2021
 
 ## Course Sections
 
