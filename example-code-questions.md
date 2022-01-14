@@ -1,4 +1,4 @@
-# Example Questions
+# Example Code Questions
 
 Credit: [Sourced from ICM Code](https://github.com/ITPNYU/ICM-2019-Code/wiki/Example-Questions)
 
