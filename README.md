@@ -76,7 +76,7 @@ Grades will be determined according to this criteria:
 This class is participatory. You are expected to contribute to discussions and provide feedback to other students in class, which includes engaging with their assignments and projects. This, along with attendance, is 40% of your grade.
 
 ## Attendance
-Attendance is mandatory. Please email your instructor if you are going to miss a class. Two unexcused absences is cause for failing the class. An unexcused lateness of 10 minutes or more is equivalent to 1/2 of an absence.
+Attendance is mandatory. Please email your instructor if you are going to miss a class. Two unexcused absences are cause for failing the class. An unexcused lateness of 10 minutes or more is equivalent to 1/2 of an absence.
 
 ## Statements
 
